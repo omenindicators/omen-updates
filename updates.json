@@ -1,15 +1,15 @@
 {
   "products": {
     "TradingDash": {
-      "version": "1.0.1.4",
-      "date": "2026-10-21",
-      "notes": ["You'll now be told in NinjaTrader when a new version is out"],
+      "version": "1.0.1.5",
+      "date": "2026-10-22",
+      "notes": ["Now listed in NinjaTrader as OmenTradingDash (Control Center → New), so all Omen Indicators tools sit together"],
       "url": "https://app.gumroad.com/library"
     },
     "FPO": {
-      "version": "1.0.0.9",
-      "date": "2026-10-21",
-      "notes": ["You'll now be told in NinjaTrader when a new version is out"],
+      "version": "1.0.1.0",
+      "date": "2026-10-22",
+      "notes": ["Now listed in NinjaTrader as OmenFPO, so all Omen Indicators tools sit together"],
       "url": "https://app.gumroad.com/library"
     },
     "OmenDraw": {
@@ -19,27 +19,33 @@
       "url": "https://app.gumroad.com/library"
     },
     "PositionSizer": {
-      "version": "1.0.1.0",
-      "date": "2026-10-21",
-      "notes": ["You'll now be told in NinjaTrader when a new version is out"],
+      "version": "1.0.1.1",
+      "date": "2026-10-22",
+      "notes": ["Now listed in NinjaTrader as OmenPositionSizer, so all Omen Indicators tools sit together"],
       "url": "https://app.gumroad.com/library"
     },
     "DRWindow": {
-      "version": "1.0.0.8",
-      "date": "2026-10-21",
-      "notes": ["You'll now be told in NinjaTrader when a new version is out"],
+      "version": "1.0.0.9",
+      "date": "2026-10-22",
+      "notes": ["Now listed in NinjaTrader as OmenDRWindow, so all Omen Indicators tools sit together"],
       "url": "https://app.gumroad.com/library"
     },
     "ReplayDownloader": {
-      "version": "1.0.0.4",
-      "date": "2026-10-21",
-      "notes": ["You'll now be told in NinjaTrader when a new version is out"],
+      "version": "1.0.0.5",
+      "date": "2026-10-22",
+      "notes": ["Now listed in NinjaTrader as Omen Replay Downloader (Control Center → Tools), so all Omen Indicators tools sit together"],
       "url": "https://app.gumroad.com/library"
     },
     "CrosshairTime": {
-      "version": "1.0.0.4",
-      "date": "2026-10-21",
-      "notes": ["You'll now be told in NinjaTrader when a new version is out"],
+      "version": "1.0.0.5",
+      "date": "2026-10-22",
+      "notes": ["Now listed in NinjaTrader as OmenCrosshairTime, so all Omen Indicators tools sit together"],
+      "url": "https://app.gumroad.com/library"
+    },
+    "OmenInk": {
+      "version": "1.0.0.1",
+      "date": "2026-10-22",
+      "notes": ["First release"],
       "url": "https://app.gumroad.com/library"
     }
   }
