@@ -1,12 +1,45 @@
 {
   "products": {
     "TradingDash": {
-      "version": "1.0.0.1",
+      "version": "1.0.1.4",
       "date": "2026-10-21",
-      "notes": [
-        "Describe the first change here",
-        "Describe the second change here"
-      ],
+      "notes": ["You'll now be told in NinjaTrader when a new version is out"],
+      "url": "https://app.gumroad.com/library"
+    },
+    "FPO": {
+      "version": "1.0.0.9",
+      "date": "2026-10-21",
+      "notes": ["You'll now be told in NinjaTrader when a new version is out"],
+      "url": "https://app.gumroad.com/library"
+    },
+    "OmenDraw": {
+      "version": "1.0.0.7",
+      "date": "2026-10-21",
+      "notes": ["You'll now be told in NinjaTrader when a new version is out"],
+      "url": "https://app.gumroad.com/library"
+    },
+    "PositionSizer": {
+      "version": "1.0.1.0",
+      "date": "2026-10-21",
+      "notes": ["You'll now be told in NinjaTrader when a new version is out"],
+      "url": "https://app.gumroad.com/library"
+    },
+    "DRWindow": {
+      "version": "1.0.0.8",
+      "date": "2026-10-21",
+      "notes": ["You'll now be told in NinjaTrader when a new version is out"],
+      "url": "https://app.gumroad.com/library"
+    },
+    "ReplayDownloader": {
+      "version": "1.0.0.4",
+      "date": "2026-10-21",
+      "notes": ["You'll now be told in NinjaTrader when a new version is out"],
+      "url": "https://app.gumroad.com/library"
+    },
+    "CrosshairTime": {
+      "version": "1.0.0.4",
+      "date": "2026-10-21",
+      "notes": ["You'll now be told in NinjaTrader when a new version is out"],
       "url": "https://app.gumroad.com/library"
     }
   }
