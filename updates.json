@@ -1,0 +1,13 @@
+{
+  "products": {
+    "TradingDash": {
+      "version": "1.0.0.1",
+      "date": "2026-10-21",
+      "notes": [
+        "Describe the first change here",
+        "Describe the second change here"
+      ],
+      "url": "https://app.gumroad.com/library"
+    }
+  }
+}
