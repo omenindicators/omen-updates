@@ -19,9 +19,9 @@
       "url": "https://app.gumroad.com/library"
     },
     "PositionSizer": {
-      "version": "1.0.1.1",
+      "version": "1.0.1.2",
       "date": "2026-10-22",
-      "notes": ["Now listed in NinjaTrader as OmenPositionSizer, so all Omen Indicators tools sit together"],
+      "notes": ["Hedging guard: orders that would put opposite directions on the mini/micro pair (e.g. long MNQ, short NQ) are now blocked in your master and copy accounts", "Allow straddles / hedging (properties, 03 Orders) turns it off, with a HEDGING ON badge and a warning before every opposite-direction order", "Straddles: when one side's entry fills, the other side's entries are cancelled", "A PDF user guide is now included with your download"],
       "url": "https://app.gumroad.com/library"
     },
     "DRWindow": {
