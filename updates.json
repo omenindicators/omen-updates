@@ -47,6 +47,12 @@
       "date": "2026-10-22",
       "notes": ["First release"],
       "url": "https://app.gumroad.com/library"
+    },
+    "OmenSwitch": {
+      "version": "1.0.0.1",
+      "date": "2026-10-23",
+      "notes": ["First release"],
+      "url": "https://app.gumroad.com/library"
     }
   }
 }
