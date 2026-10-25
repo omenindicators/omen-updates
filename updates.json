@@ -43,9 +43,9 @@
       "url": "https://app.gumroad.com/library"
     },
     "OmenInk": {
-      "version": "1.0.0.1",
-      "date": "2026-10-22",
-      "notes": ["First release"],
+      "version": "1.0.0.2",
+      "date": "2026-10-25",
+      "notes": ["Layouts: save the dash settings by name and load them on any chart; each chart reopens on its own layout", "Group drawings like TradingView: hold Ctrl and drag a box on empty chart (or Ctrl+click drawings), then drag one to move them all or press Delete", "Selection handles you can see on any chart: set their color for dark and light backgrounds, size and outline (properties, Selection handles)"],
       "url": "https://app.gumroad.com/library"
     },
     "OmenSwitch": {
