@@ -19,9 +19,9 @@
       "url": "https://app.gumroad.com/library"
     },
     "PositionSizer": {
-      "version": "1.0.1.3",
-      "date": "2026-10-25",
-      "notes": ["Messaging update: clearer wording in the license window, which now covers the new 7-day free trial", "No changes to sizing, orders or copy trading; your settings are kept"],
+      "version": "1.0.1.4",
+      "date": "2026-10-26",
+      "notes": ["Add to a position: with a trade open the button on its side becomes ADD, sized from what your stops leave of your risk budget (or a fresh budget for each add, a switch on the dash)", "Every add keeps its own stops and targets, labeled Orig, Add 1, Add 2 on the chart flags; trail each add from its own entry or the whole position together", "Close contracts outside PositionSizer and its stops are trimmed to match, newest add first; copy accounts close the same share", "Easier to use: entry and add budget are now switches, Tab moves between fields, crowded flags no longer cover each other, the dash column scrolls with the mouse wheel, and the popped-out dash resizes both ways"],
       "url": "https://app.gumroad.com/library"
     },
     "DRWindow": {
