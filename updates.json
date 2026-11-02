@@ -20,9 +20,10 @@
       "url": "https://app.gumroad.com/library"
     },
     "OmenDraw": {
-      "version": "1.0.0.8",
+      "version": "1.0.0.9",
       "date": "2026-11-02",
       "notes": [
+        "The scope can now be dragged taller, up to 600 pixels",
         "Now on NinjaTrader's own licensing, with a 7-day free trial on your NinjaTrader account",
         "New: roll the mouse wheel just above the scope's bottom edge to change its time span, without opening the tray",
         "DAILY mode reads its structure from Omen Draw's own months of 4-hour history, and the reach verdict uses the last 20 trading days",
@@ -111,9 +112,11 @@
       "url": "https://app.gumroad.com/library"
     },
     "OmenMTFCE": {
-      "version": "1.0.0.1",
-      "date": "2026-11-01",
+      "version": "1.0.0.2",
+      "date": "2026-11-02",
       "notes": [
+        "New: roll the mouse wheel just above the scope's bottom edge to change how many bars it shows, without opening the tray",
+        "The scope can now be dragged taller, up to 600 pixels",
         "First release as Omen MTF CE, with a 7-day free trial on your NinjaTrader account",
         "A 4-step Quick Start in the help glass the first time you load it (the ? on the help glass replays it)",
         "Help built in: the ? in the dash header opens the Omen help site"
