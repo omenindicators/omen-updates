@@ -1,57 +1,143 @@
 {
   "products": {
     "TradingDash": {
-      "version": "1.0.1.5",
-      "date": "2026-10-22",
-      "notes": ["Now listed in NinjaTrader as OmenTradingDash (Control Center → New), so all Omen Indicators tools sit together"],
+      "version": "1.0.1.6",
+      "date": "2026-11-01",
+      "notes": [
+        "Now called Omen Dash everywhere you see it; your data, settings and notes stay where they were",
+        "New: a short welcome window the first time it runs licensed, with links to the user guide and support",
+        "Exported files are now named omendash-…",
+        "New Oi and Oi Violet themes, with the Oi avatar as the default logo"
+      ],
       "url": "https://app.gumroad.com/library"
     },
     "FPO": {
       "version": "1.0.1.0",
       "date": "2026-10-22",
-      "notes": ["Now listed in NinjaTrader as OmenFPO, so all Omen Indicators tools sit together"],
+      "notes": [
+        "Now listed in NinjaTrader as OmenFPO, so all Omen Indicators tools sit together"
+      ],
       "url": "https://app.gumroad.com/library"
     },
     "OmenDraw": {
-      "version": "1.0.0.7",
-      "date": "2026-10-21",
-      "notes": ["You'll now be told in NinjaTrader when a new version is out"],
+      "version": "1.0.0.8",
+      "date": "2026-11-02",
+      "notes": [
+        "Now on NinjaTrader's own licensing, with a 7-day free trial on your NinjaTrader account",
+        "New: roll the mouse wheel just above the scope's bottom edge to change its time span, without opening the tray",
+        "DAILY mode reads its structure from Omen Draw's own months of 4-hour history, and the reach verdict uses the last 20 trading days",
+        "Leaner: Omen Draw carries only the liquidity engine it needs; the eye stays per chart; Bottom corners really sit at the bottom",
+        "New looks: Oi and Oi Violet, plus redrawn look and color menus that mark the current choice",
+        "Ask Oi: the ? opens the Omen help site, where you can ask a question or contact support"
+      ],
       "url": "https://app.gumroad.com/library"
     },
     "PositionSizer": {
-      "version": "1.0.1.4",
-      "date": "2026-10-26",
-      "notes": ["Add to a position: with a trade open the button on its side becomes ADD, sized from what your stops leave of your risk budget (or a fresh budget for each add, a switch on the dash)", "Every add keeps its own stops and targets, labeled Orig, Add 1, Add 2 on the chart flags; trail each add from its own entry or the whole position together", "Close contracts outside PositionSizer and its stops are trimmed to match, newest add first; copy accounts close the same share", "Easier to use: entry and add budget are now switches, Tab moves between fields, crowded flags no longer cover each other, the dash column scrolls with the mouse wheel, and the popped-out dash resizes both ways"],
+      "version": "1.0.1.5",
+      "date": "2026-11-01",
+      "notes": [
+        "Changes in the Indicators window now stay, like changes on the dash; a new PositionSizer starts with your last-used settings",
+        "Trailing stop defaults no longer show WON'T MOVE (EVERY now starts at 5)",
+        "New: a 4-step Quick Start in the help glass, and a ? in the dash header for help and support",
+        "Account Guard now calls TradingDash by its new name, Omen Dash",
+        "New looks: Oi and Oi Violet, plus redrawn look and color menus that mark the current choice",
+        "Ask Oi: the ? opens the Omen help site, where you can ask a question or contact support"
+      ],
       "url": "https://app.gumroad.com/library"
     },
     "DRWindow": {
       "version": "1.0.0.9",
       "date": "2026-10-22",
-      "notes": ["Now listed in NinjaTrader as OmenDRWindow, so all Omen Indicators tools sit together"],
+      "notes": [
+        "Now listed in NinjaTrader as OmenDRWindow, so all Omen Indicators tools sit together"
+      ],
       "url": "https://app.gumroad.com/library"
     },
     "ReplayDownloader": {
       "version": "1.0.0.5",
       "date": "2026-10-22",
-      "notes": ["Now listed in NinjaTrader as Omen Replay Downloader (Control Center → Tools), so all Omen Indicators tools sit together"],
+      "notes": [
+        "Now listed in NinjaTrader as Omen Replay Downloader (Control Center → Tools), so all Omen Indicators tools sit together"
+      ],
       "url": "https://app.gumroad.com/library"
     },
     "CrosshairTime": {
       "version": "1.0.0.5",
       "date": "2026-10-22",
-      "notes": ["Now listed in NinjaTrader as OmenCrosshairTime, so all Omen Indicators tools sit together"],
+      "notes": [
+        "Now listed in NinjaTrader as OmenCrosshairTime, so all Omen Indicators tools sit together"
+      ],
       "url": "https://app.gumroad.com/library"
     },
     "OmenInk": {
-      "version": "1.0.0.2",
-      "date": "2026-10-25",
-      "notes": ["Layouts: save the dash settings by name and load them on any chart; each chart reopens on its own layout", "Group drawings like TradingView: hold Ctrl and drag a box on empty chart (or Ctrl+click drawings), then drag one to move them all or press Delete", "Selection handles you can see on any chart: set their color for dark and light backgrounds, size and outline (properties, Selection handles)"],
+      "version": "1.0.0.3",
+      "date": "2026-11-02",
+      "notes": [
+        "New: a 4-step Quick Start in the help glass the first time you load it",
+        "The dash's own window is now titled Ink · <instrument>",
+        "New looks: Oi and Oi Violet, plus redrawn look and color menus that mark the current choice",
+        "Ask Oi: the ? opens the Omen help site, where you can ask a question or contact support",
+        "Fixed: in the Standard look, the Risk $ box on the position tools now lines up with the rest of the row"
+      ],
       "url": "https://app.gumroad.com/library"
     },
     "OmenSwitch": {
+      "version": "1.0.0.2",
+      "date": "2026-11-01",
+      "notes": [
+        "New: a 4-step Quick Start card under the switch bar the first time it runs",
+        "Ask Oi: ? ASK OI in the settings window opens the Omen help site",
+        "A Try 7 days free link in the buy window",
+        "New chart themes: Oi and Oi Violet; candle colors are kept when you change the bar type"
+      ],
+      "url": "https://app.gumroad.com/library"
+    },
+    "OmenSwitchLite": {
       "version": "1.0.0.1",
-      "date": "2026-10-23",
-      "notes": ["First release"],
+      "date": "2026-11-01",
+      "notes": [
+        "First release"
+      ],
+      "url": "https://app.gumroad.com/library"
+    },
+    "OmenLayers": {
+      "version": "1.0.0.1",
+      "date": "2026-11-01",
+      "notes": [
+        "First release: ICT PD arrays on any timeframe, all on one chart, with a 7-day free trial on your NinjaTrader account",
+        "A 4-step Quick Start in the help glass the first time you load it (the ? on the help glass replays it)",
+        "Help built in: the ? in the dash header opens the Omen help site, where you can ask a question or contact support"
+      ],
+      "url": "https://app.gumroad.com/library"
+    },
+    "OmenMTFCE": {
+      "version": "1.0.0.1",
+      "date": "2026-11-01",
+      "notes": [
+        "First release as Omen MTF CE, with a 7-day free trial on your NinjaTrader account",
+        "A 4-step Quick Start in the help glass the first time you load it (the ? on the help glass replays it)",
+        "Help built in: the ? in the dash header opens the Omen help site"
+      ],
+      "url": "https://app.gumroad.com/library"
+    },
+    "OmenRack": {
+      "version": "1.0.0.1",
+      "date": "2026-11-01",
+      "notes": [
+        "First release: Omen Rack is its own product, with a 7-day free trial on your NinjaTrader account (also in the Complete bundle)",
+        "Without a Rack license every Omen tool still works on its chart or in its own window",
+        "Charts in a workspace that isn't showing stay out of the Rack until you bring that workspace forward"
+      ],
+      "url": "https://app.gumroad.com/library"
+    },
+    "OmenAccounts": {
+      "version": "1.0.0.1",
+      "date": "2026-11-01",
+      "notes": [
+        "First release: every account on one live board (Control Center → New → Omen Accounts), with a 7-day free trial",
+        "An Omen Dash enhancement: it works on its own, and with Omen Dash it adds prop-firm rules, limits and the journal",
+        "A 3-step Quick Start card the first time you open the board, and a ? in its header for help and support"
+      ],
       "url": "https://app.gumroad.com/library"
     }
   }
