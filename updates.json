@@ -35,16 +35,17 @@
       "url": "https://app.gumroad.com/library"
     },
     "PositionSizer": {
-      "version": "1.0.1.6",
-      "date": "2026-11-03",
+      "version": "1.0.1.7",
+      "date": "2026-11-04",
       "notes": [
-        "Fixed: a rare \"Index was outside the bounds of the array\" error box that could pop up on its own while the chart was running",
-        "Changes in the Indicators window now stay, like changes on the dash; a new PositionSizer starts with your last-used settings",
-        "Trailing stop defaults no longer show WON'T MOVE (EVERY now starts at 5)",
-        "New: a 4-step Quick Start in the help glass, and a ? in the dash header for help and support",
-        "Account Guard now calls TradingDash by its new name, Omen Dash",
-        "New looks: Oi and Oi Violet, plus redrawn look and color menus that mark the current choice",
-        "Ask Oi: the ? opens the Omen help site, where you can ask a question or contact support"
+        "New: OCO straddle. Set ENTRY to OCO for a buy stop above and a sell stop below; when one side fills, the other is canceled (needs hedging on in Order settings)",
+        "Drag the MOVE BOTH grip to shift the whole straddle, while planning or after it's placed",
+        "Optional: cancel both sides after 15, 30 or 60 minutes, and ask before each straddle",
+        "Copy accounts follow straddles, including partial fills and stop moves",
+        "MATCH is now RESYNC, and RESYNC ALL appears when two or more copies are out of sync",
+        "Cleaner dash: repeated readouts removed, and REVERSE, break-even, partial and cancel sit in one row",
+        "Ask Oi opens in one window: clicking ? again brings it back instead of opening another",
+        "New Oi picture in the help menu, and an updated user guide PDF with pictures"
       ],
       "url": "https://app.gumroad.com/library"
     },
