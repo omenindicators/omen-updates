@@ -1,13 +1,15 @@
 {
   "products": {
     "TradingDash": {
-      "version": "1.0.1.6",
-      "date": "2026-11-01",
+      "version": "1.0.1.7",
+      "date": "2026-11-07",
       "notes": [
-        "Now called Omen Dash everywhere you see it; your data, settings and notes stay where they were",
-        "New: a short welcome window the first time it runs licensed, with links to the user guide and support",
-        "Exported files are now named omendash-…",
-        "New Oi and Oi Violet themes, with the Oi avatar as the default logo"
+        "BIG UPDATE: Customize in the theme menu. Pink and Pink Light skins, display colors and glow lines",
+        "Your own background picture behind the page, with an opacity slider",
+        "Look sets and Undo",
+        "New warnings on the account page: Consistency over limit, and Check the starting balance",
+        "From the next update on, updates install with one click",
+        "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
       ],
       "url": "https://app.gumroad.com/library"
     },
@@ -20,32 +22,29 @@
       "url": "https://app.gumroad.com/library"
     },
     "OmenDraw": {
-      "version": "1.0.1.0",
-      "date": "2026-11-03",
+      "version": "1.0.1.1",
+      "date": "2026-11-07",
       "notes": [
-        "Fixed: a rare \"Index was outside the bounds of the array\" error box that could pop up on its own while the chart was running",
-        "The scope can now be dragged taller, up to 600 pixels",
-        "Now on NinjaTrader's own licensing, with a 7-day free trial on your NinjaTrader account",
-        "New: roll the mouse wheel just above the scope's bottom edge to change its time span, without opening the tray",
-        "DAILY mode reads its structure from Omen Draw's own months of 4-hour history, and the reach verdict uses the last 20 trading days",
-        "Leaner: Omen Draw carries only the liquidity engine it needs; the eye stays per chart; Bottom corners really sit at the bottom",
-        "New looks: Oi and Oi Violet, plus redrawn look and color menus that mark the current choice",
-        "Ask Oi: the ? opens the Omen help site, where you can ask a question or contact support"
+        "BIG UPDATE: the new Customize window. Pick a look, tune the colors and knobs, and save it, all live",
+        "New Pink skin, your own background picture (opacity, size, drag) and glow lines around the dash",
+        "Look sets: save a look and apply it to this tool, this chart or every Omen tool on every chart",
+        "With a position open, turning power back on asks before the chart reloads",
+        "From the next update on, updates install with one click",
+        "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
       ],
       "url": "https://app.gumroad.com/library"
     },
     "PositionSizer": {
-      "version": "1.0.1.7",
-      "date": "2026-11-04",
+      "version": "1.0.1.8",
+      "date": "2026-11-07",
       "notes": [
-        "New: OCO straddle. Set ENTRY to OCO for a buy stop above and a sell stop below; when one side fills, the other is canceled (needs hedging on in Order settings)",
-        "Drag the MOVE BOTH grip to shift the whole straddle, while planning or after it's placed",
-        "Optional: cancel both sides after 15, 30 or 60 minutes, and ask before each straddle",
-        "Copy accounts follow straddles, including partial fills and stop moves",
-        "MATCH is now RESYNC, and RESYNC ALL appears when two or more copies are out of sync",
-        "Cleaner dash: repeated readouts removed, and REVERSE, break-even, partial and cancel sit in one row",
-        "Ask Oi opens in one window: clicking ? again brings it back instead of opening another",
-        "New Oi picture in the help menu, and an updated user guide PDF with pictures"
+        "BIG UPDATE: the new Customize window. Pick a look, tune the colors and knobs, and save it, all live",
+        "New Pink skin, your own background picture (opacity, size, drag) and glow lines around the dash. One picture can stretch across the whole Omen Rack",
+        "Look sets: save a look and apply it to this tool, this chart or every Omen tool on every chart",
+        "FLATTEN ALL works even with power off",
+        "Eval, funded and live accounts get a colored tag, and order confirms on them warn you, with No as the default",
+        "From the next update on, updates install with one click",
+        "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
       ],
       "url": "https://app.gumroad.com/library"
     },
@@ -74,25 +73,25 @@
       "url": "https://app.gumroad.com/library"
     },
     "OmenInk": {
-      "version": "1.0.0.3",
-      "date": "2026-11-02",
+      "version": "1.0.0.4",
+      "date": "2026-11-07",
       "notes": [
-        "New: a 4-step Quick Start in the help glass the first time you load it",
-        "The dash's own window is now titled Ink · <instrument>",
-        "New looks: Oi and Oi Violet, plus redrawn look and color menus that mark the current choice",
-        "Ask Oi: the ? opens the Omen help site, where you can ask a question or contact support",
-        "Fixed: in the Standard look, the Risk $ box on the position tools now lines up with the rest of the row"
+        "BIG UPDATE: the new Customize window. Pick a look, tune the colors and knobs, and save it, all live",
+        "New Pink skin, your own background picture (opacity, size, drag) and glow lines around the dash",
+        "Look sets: save a look and apply it to this tool, this chart or every Omen tool on every chart",
+        "The floating palette keeps its own order: drag any tool to any spot",
+        "From the next update on, updates install with one click",
+        "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
       ],
       "url": "https://app.gumroad.com/library"
     },
     "OmenSwitch": {
-      "version": "1.0.0.2",
-      "date": "2026-11-01",
+      "version": "1.0.0.3",
+      "date": "2026-11-07",
       "notes": [
-        "New: a 4-step Quick Start card under the switch bar the first time it runs",
-        "Ask Oi: ? ASK OI in the settings window opens the Omen help site",
-        "A Try 7 days free link in the buy window",
-        "New chart themes: Oi and Oi Violet; candle colors are kept when you change the bar type"
+        "Two copies of the same indicator get their own labels back when you show labels again",
+        "From the next update on, updates install with one click",
+        "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
       ],
       "url": "https://app.gumroad.com/library"
     },
@@ -105,46 +104,54 @@
       "url": "https://app.gumroad.com/library"
     },
     "OmenLayers": {
-      "version": "1.0.0.2",
-      "date": "2026-11-03",
+      "version": "1.0.0.3",
+      "date": "2026-11-07",
       "notes": [
-        "Fixed: a rare \"Index was outside the bounds of the array\" error box that could pop up on its own while the chart was running",
-        "First release: ICT PD arrays on any timeframe, all on one chart, with a 7-day free trial on your NinjaTrader account",
-        "A 4-step Quick Start in the help glass the first time you load it (the ? on the help glass replays it)",
-        "Help built in: the ? in the dash header opens the Omen help site, where you can ask a question or contact support"
+        "BIG UPDATE: the new Customize window. Pick a look, tune the colors and knobs, and save it, all live",
+        "New Pink skin, your own background picture (opacity, size, drag) and glow lines around the dash",
+        "Look sets: save a look and apply it to this tool, this chart or every Omen tool on every chart",
+        "With a position open, turning power back on asks before the chart reloads",
+        "From the next update on, updates install with one click",
+        "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
       ],
       "url": "https://app.gumroad.com/library"
     },
     "OmenMTFCE": {
-      "version": "1.0.0.3",
-      "date": "2026-11-03",
+      "version": "1.0.0.4",
+      "date": "2026-11-07",
       "notes": [
-        "Fixed: a rare \"Index was outside the bounds of the array\" error box that could pop up on its own while the chart was running",
-        "New: roll the mouse wheel just above the scope's bottom edge to change how many bars it shows, without opening the tray",
-        "The scope can now be dragged taller, up to 600 pixels",
-        "First release as Omen MTF CE, with a 7-day free trial on your NinjaTrader account",
-        "A 4-step Quick Start in the help glass the first time you load it (the ? on the help glass replays it)",
-        "Help built in: the ? in the dash header opens the Omen help site"
+        "BIG UPDATE: the new Customize window. Pick a look, tune the colors and knobs, and save it, all live",
+        "New Pink skin, your own background picture (opacity, size, drag) and glow lines around the dash",
+        "Look sets: save a look and apply it to this tool, this chart or every Omen tool on every chart",
+        "With a position open, turning power back on asks before the chart reloads",
+        "From the next update on, updates install with one click",
+        "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
       ],
       "url": "https://app.gumroad.com/library"
     },
     "OmenRack": {
-      "version": "1.0.0.1",
-      "date": "2026-11-01",
+      "version": "1.0.0.2",
+      "date": "2026-11-07",
       "notes": [
-        "First release: Omen Rack is its own product, with a 7-day free trial on your NinjaTrader account (also in the Complete bundle)",
-        "Without a Rack license every Omen tool still works on its chart or in its own window",
-        "Charts in a workspace that isn't showing stay out of the Rack until you bring that workspace forward"
+        "BIG UPDATE: Customize the Rack. A picture in the bay, glow around the cards and a color wheel",
+        "Open the Rack any time from Control Center > New > Omen Rack",
+        "Each chart chip shows the chart's tab name, so two charts of the same market are easy to tell apart",
+        "From the next update on, updates install with one click",
+        "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
       ],
       "url": "https://app.gumroad.com/library"
     },
     "OmenAccounts": {
-      "version": "1.0.0.1",
-      "date": "2026-11-01",
+      "version": "1.0.0.2",
+      "date": "2026-11-07",
       "notes": [
-        "First release: every account on one live board (Control Center → New → Omen Accounts), with a 7-day free trial",
-        "An Omen Dash enhancement: it works on its own, and with Omen Dash it adds prop-firm rules, limits and the journal",
-        "A 3-step Quick Start card the first time you open the board, and a ? in its header for help and support"
+        "BIG UPDATE: a Customize window for the board. Pink and Pink Light, colors and glow lines",
+        "Your own background picture behind the board, with an opacity slider",
+        "Look sets: save a look and apply it to this tool, this chart or every Omen tool on every chart",
+        "An account that's in a trade stays on the board even if hidden, and FLATTEN ALL covers it",
+        "The flatten confirm ignores an accidental double-click",
+        "From the next update on, updates install with one click",
+        "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
       ],
       "url": "https://app.gumroad.com/library"
     }
