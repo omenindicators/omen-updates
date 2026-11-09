@@ -30,16 +30,11 @@
       "url": "https://app.gumroad.com/library"
     },
     "OmenDraw": {
-      "version": "1.0.1.2",
-      "date": "2026-11-08",
+      "version": "1.0.1.3",
+      "date": "2026-11-09",
       "notes": [
-        "BIG UPDATE: a redesigned dash. Modes are screen keys, FORCE stands on its own, and the scope has its own SCOPE key",
-        "Templates with three starters: NY Intraday, Day draw and Session",
-        "A SETUP rail for Templates, Pools and Lines, and scope settings on a screen with LCD knobs",
-        "Folded, the dash shows the next draw and its fuel, with the reach in green, amber or red",
-        "A new Customize window with a live preview and one rail: Skin, Colors, Modules, Knobs, Buttons, Picture, Glow, Size and Sets",
-        "Report a problem from the ? menu: you see exactly what will be sent, and nothing goes until you press Send",
-        "When updates arrive, the update window also shows Omen tools you don't own yet, each with a 7-day free trial",
+        "The ? hint now lists everything in its menu, including Report a problem",
+        "Omen Rack: reports from its ? menu carry the Rack's own version, and Ask Oi shows the Oi icon",
         "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
       ],
       "url": "https://app.gumroad.com/library",
@@ -50,22 +45,18 @@
       "fits": "OmenLayers,OmenMTFCE",
       "lic": "OmenDraw",
       "asm": "OmenDraw",
-      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenDraw-1.0.1.2/OmenDraw_NT8_1.0.1.2.dll",
-      "sha256": "8c0b5e33fc85d708dfbc9ce4e39c7eef2ef4ec47c966a185011deb0da5629732",
-      "size": "5188096",
-      "sig": "XxbrY+2VHYSUU3BkJe6Fo5GUczpaBwI9cGkpSwlMKMNot/IMPzb894i7vkduyzFNat5Crh8nEcqAbSOFC0aNriC50CWAa5phMTrI16e4z4Ho3HF/5+fy1983soR6ylIIa6CGb7MH0tvgZwYuVfrKAuD9aT2T1X6gipah0yy0dgxdiudxGEQXI+ABxSxMadJjFWd2t6oxdv56FHF1bd5IysZBYTrZKaef6EQQhWSVvOBeoRO74/YIPpsUtlwEO9pyMZb/BE2HVs3vZEsbB40okfZQ4MW8cIl4mqG7M7AqPTKEC8ijcM2/PUNCRVqhdcQu/GF9pHl1lC4HQx8SUUEsdLs0tYGGiWPCF11Z/VWqAqHOSinYx0LsOAnj2FhdEdlRB9UXVAJM+v111zoSVKZt3wd5xPYiJTa9T9k84eMh4abKrsGAy0HnNcqs49vPsrsKtdlCvIei6Xl0IWj7zdfSOZMAM6Hgilr6tD14bdumI5TfN3SQTokSbnL+4lQXq12w"
+      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenDraw-1.0.1.3/OmenDraw_NT8_1.0.1.3.dll",
+      "sha256": "1379b1faaf1f4b0dae2d70b21fc0c29ab2fdfef787365057596ab4cc6e11473d",
+      "size": "5188608",
+      "sig": "pBsA0Zb2wUNLsEApK/Nrx3wAkzewfbuhjvG7sm/eFaHd62YaKBNp7CsBTkvTcHaF7lqzF6sLf55ndhYLelXNEqmXHx8Njg+3/N10Rr+FWeevyW9Vzsw3nOFtM8Ivww+hLCxTxk8FvoEFmyfwHGR7OX+wquKa95lKusatNjyM5PpNNvhBnr9S4F7bkrUmZmoYJGXnfq0V9PZ9I/OvuZG2PK3IW/oh/pwSLmegwXY/gVWJOS7gJj/jW4HaJiJdiurCYU0hDfEj6eYYNUeNkIxdxGt03h4dauYD69eW8tCEe4QZi+d9b8YYQpf6QQQCpAj9zQn+cBxYi1KlkXx84C0IaGkz7glCT/MiLKNUY0MAsC9cVvmUKxDZYn17y7NQzNzrlu/f+Emtz+iPcHYK1TYakDcr41nd9fO0JLme7/kmevJG6pODHEvLRPDZSwb+5Niyuv80+khuXjcB/jtIADVJbSBguJom4JdiL0Ooin56PPvct0cBN4K12onQURUzHpT0"
     },
     "PositionSizer": {
-      "version": "1.0.1.9",
-      "date": "2026-11-08",
+      "version": "1.0.2.0",
+      "date": "2026-11-09",
       "notes": [
-        "BIG UPDATE: a redesigned dash. TRADE / SETUP and CONTRACTS are screen keys, with quick keys for paired orders, LINK STOPS and SNAP",
-        "SETUP rail: all 8 settings pages down the side, with each value right on its key",
-        "Templates: save your risk, stop, contracts, entry, targets, trail and copy settings and switch in one click, with UNDO and a default star",
-        "REVERSE, BREAK-EVEN, CLOSE PART and CANCEL open a panel that shows exactly what will happen, with a two-click send",
-        "A new Customize window with a live preview and one rail: Skin, Colors, Modules, Knobs, Buttons, Picture, Glow, Size and Sets",
-        "Report a problem from the ? menu: you see exactly what will be sent, and nothing goes until you press Send",
-        "When updates arrive, the update window also shows Omen tools you don't own yet, each with a 7-day free trial",
+        "REVERSE's hover text now matches how it works: a click opens its panel, the panel's button sends",
+        "The ? hint now lists everything in its menu, including Report a problem",
+        "Omen Rack: reports from its ? menu carry the Rack's own version, and Ask Oi shows the Oi icon",
         "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
       ],
       "url": "https://app.gumroad.com/library",
@@ -76,10 +67,10 @@
       "fits": "OmenAccounts,TradingDash,OmenRack",
       "lic": "PositionSizer",
       "asm": "BcnzPositionSizer",
-      "dll": "https://github.com/omenindicators/omen-updates/releases/download/PositionSizer-1.0.1.9/BcnzPositionSizer_NT8_1.0.1.9.dll",
-      "sha256": "f70973b5713751ccba7e3f7d4606721bc3e91f01dfb87d6a886f445eb5130ce5",
+      "dll": "https://github.com/omenindicators/omen-updates/releases/download/PositionSizer-1.0.2.0/BcnzPositionSizer_NT8_1.0.2.0.dll",
+      "sha256": "122e270e3080da84b67a9aed7e461b25219113f36c0d3ff16e4862ed6f1982ff",
       "size": "5648384",
-      "sig": "c88wrwcI+lFAASCgQPmqqR5z1y2W2nyW95PZ5cLyScOn45cRi1K8DAbtNgNk3KabDaCWDr6qbfeGQEMD2RTUGogMsZQfoXsF63N8VjJuA7TXPGF4fEViMCxOIBEdp9k/KbodEdoPodRz49/oQ6PJ7kWpXxJvVL2uzafg22LH9WW9VLn8Gje2I978g6ZWYrxCntVb6aIG5Dah7e2/Svpnjit5GTVQ3EntcjybNXkUTNrcjP92T50ZXpF4bHRCAkxpstYeiLKJdvQrkDMnSWpzJF42YScZjfCJA/lPnE49zQqgHM9WqZWdgsySVjP1rI19atfrroNIUmZleElVCZfiXy8sVtN4OEcEzrJPMeFhvNAAQkNSlV139kibmBE1qflLU27M2YTATjrXNOU6MxUjC9TX4pgoxl5bxfIBnwmjPS53nBnjS0wnlGJ/tnYcvTLQwwrh0kpOYYqKJRHOkLYA0cAgWLm2y3znmF6mD82kJeLePoNWV7P/b7AAEcQD6U0s"
+      "sig": "lGHFNqAO36eZ+r8xFX8fH8vcCFUKkOxx0T2wz50VyL1pb5sEDk6bhgZn1OkcbhcaFHeCG40/tAhVJJS82/lSHnT4aKGvoR3YPv4rMEIBd8GSnFBNgHx4ILtbfv/vsCJxcfGNJ8GoTocNJoxiVRiES1KOxbr6Af5o7xB9NpZKPFpO82kLV/8hidy3y8pXmsSk/e+rolyMh2DKyss7bb2zYywxR3HBcmZKYJOnMClSWouS/tJiMH2NMGs2tOjl3fURbyY1BYZusHGP8qkorODcnX1rCRJ3XIur9wWw0yhIN0ZtzYN++kT+x5WUbnaz3Gn9eywAM9Gir5QpPSvmmp04LsTaJiZ/soemRu28g5lwRd35P0nXPtHhw9A6kc8Q6LmA2K313LAupspw+gSFO2Xze0P45IaRZdGdBlBB4cLbpJL2i4NUNfhjcAWtB7gY1ftv8z/T9ytCiAOuoXVOdpx4ilhYJVym4A/2YKQHdRQ6xFpwt84Nn8HW0QKCGLn/RYgI"
     },
     "DRWindow": {
       "version": "1.0.0.9",
@@ -106,15 +97,14 @@
       "url": "https://app.gumroad.com/library"
     },
     "OmenInk": {
-      "version": "1.0.0.5",
-      "date": "2026-11-08",
+      "version": "1.0.0.6",
+      "date": "2026-11-09",
       "notes": [
-        "BIG UPDATE: templates for every drawing tool. Save a look and apply its color, width, fill, line, CE and text in one click",
-        "The quick bar: select a drawing and a bar floats beside it with your templates. Hover to preview, click to apply",
-        "RECENT keeps your last 3 looks per drawing tool, and UNDO / Ctrl+Z work after any template change",
-        "A new Customize window with a live preview and one rail: Skin, Colors, Modules, Knobs, Buttons, Picture, Glow, Size and Sets",
-        "Report a problem from the ? menu: you see exactly what will be sent, and nothing goes until you press Send",
-        "When updates arrive, the update window also shows Omen tools you don't own yet, each with a 7-day free trial",
+        "Fixed: switching chart tabs with a drawing selected could freeze the chart",
+        "Fixed: after a data connection reloads the chart, the dash follows your selection again (no F5 needed)",
+        "Text, Callout and Signpost drawings get a WORDS key on the quick bar: type the words and press Enter to put them on the chart",
+        "The ? hint now lists everything in its menu, including Report a problem",
+        "Omen Rack: reports from its ? menu carry the Rack's own version, and Ask Oi shows the Oi icon",
         "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
       ],
       "url": "https://app.gumroad.com/library",
@@ -125,20 +115,16 @@
       "fits": "OmenLayers,OmenDraw",
       "lic": "OmenInk",
       "asm": "OmenInk",
-      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenInk-1.0.0.5/OmenInk_NT8_1.0.0.5.dll",
-      "sha256": "c334a5f066d73a59cf3b27987b9a27488230ed22601da6f8eec01e33e198614d",
-      "size": "5604352",
-      "sig": "rVtvQz9NSMCAIlVBoW6fLrNGf2DTewxNT6Rh93J5LRvSoGLwu3ReVQS+KqDwbUajbNRg3o9SyMmfq5kTA8YXpx4avwWlaoF+ML6lw1uBCcdhQEx6fJRo2nG8HbZGtJmAFFZan/wKLv7NJuXYEM2EoToWWoS8kED7gjzic8I7126ipghhT2p6IjUmACPCRGexqWLQjlFYY+1ThJK5Y0OTruVeQOsfLY1dYLpN+8JzyRYiZB4T6ShYipudwzf6Hd6FTHgaCVXj2cb5VcDsqEz4p25dl+30lkgtXvefVpKtGeFYzFdfocTRqbyZMRNUVdbSY6PQjrtoHYrVM4zTSUA7BvC7azfdTxeVBH31ifKg2QWYQiY8V4FMeweqtYGV9h0YJRwQTXowhjHhz7LUpJYY8GfVgV3wcSCCxswnB964tZEk4QlQVvnliEU2wGmH3YvJ+dycj0fM7bpF/4VdE3d1zgTcsjtLYWVBEEygrejGtjUvjobquXwgurJt8KcAa1vi"
+      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenInk-1.0.0.6/OmenInk_NT8_1.0.0.6.dll",
+      "sha256": "c1dfe3a74f126e60dd10a2aade1662d641857d58e80d819deba5215b8f624c4b",
+      "size": "5610496",
+      "sig": "Xp+Wc6AxEy+RIrd50uBeOi2FoL1FvnnASY2IfgUrlcVxo2hwrv/tCdAF4uc6M6y3mKJH4rUI6jqILxgWETSjNvH0Fy77BiAO3+X+pQBCyKIB1r6r5Ulj6RvE9xckHRoBG4NaU5sZWhrgNoV7krPfRnyUSqZ9LypRtbnFZgu7b5iS7Ov1zmdX/xyaGW+CAe01q7s2zN0K7kSPI05G2Y8dNsVPEMQU2Q5C7CoZoTzxqGaS4tRB8eASgVzD7WQ7Qy6YY2mgCQ1C+owwcf5S6LbCx8h7DD5t9+DZ7YZVOWdAxC4tQSdlnhDCxjCKy5IJY0ICr1d8pX+6cqR3AfhHTs8XCo/w9OtDC5jMGAQu85RGRQCKRnDdApbwVLiPgYj3ogS/QqWDjooEX35Tz34I+lFgy6Ml8bxD1TwTbkZE8dvs28UJZ4Td7dlxpVI4DZOUr41WGo48aKdcoteTCczkVnjcT48Kyvec93U68oSRAAJM5LX9fMWm3FmxYesHbEa0IjbF"
     },
     "OmenSwitch": {
-      "version": "1.0.0.4",
-      "date": "2026-11-08",
+      "version": "1.0.0.5",
+      "date": "2026-11-09",
       "notes": [
-        "BIG UPDATE: a new settings window with its pages on a rail",
-        "Click a theme or a color and the chart changes at once, with UNDO. Saved themes keep your chart settings too",
-        "Star a default theme for new charts",
-        "Report a problem from the ? menu: you see exactly what will be sent, and nothing goes until you press Send",
-        "When updates arrive, the update window also shows Omen tools you don't own yet, each with a 7-day free trial",
+        "The gear's hover text says right-click opens help: Ask Oi, Contact Mike and Report a problem",
         "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
       ],
       "url": "https://app.gumroad.com/library",
@@ -149,10 +135,10 @@
       "fits": "OmenRack,OmenInk",
       "lic": "OmenSwitch",
       "asm": "OmenSwitch",
-      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenSwitch-1.0.0.4/OmenSwitch_NT8_1.0.0.4.dll",
-      "sha256": "e17d5668004a15c4e67c5329de13860468d31f9d1e0733af5f028146221f4026",
+      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenSwitch-1.0.0.5/OmenSwitch_NT8_1.0.0.5.dll",
+      "sha256": "3e2cfee94e299cc76386ecd804c0383663a4360cfd57a5c34d5c8e7c10c267dd",
       "size": "4320768",
-      "sig": "hcxFEfr1utwhIHldmeLIPfs/JpjsvkAhO5noieD3P3bH3uLzpPuV5fu7MzJ6NIqGDGagwlsFvkPFmmYMuFEH3LdDU5su7Rs4wkwszexVPEHQ4QDTVWigU+8c0VJExFmzOsXOw8V0H3nOSAmhrNDvNwZl7qMPe/JH/t4xk/E9udMxNj9Z3JEZceh/e/VDaHA3NOpaJTBlk3WsWN9msTScAEb5/m1TYR5VEXVERNfttyMwvXln4H/1stWseLw13R5QcmCrhn6RTLKDPHS2/oXkjlf5wwJ0VPf1WHGYLMjdL/1MxFAzNzoMpnC8JxmqlWtSx2dsK4G0DEJ70CPZNC6CCbu8W8scQ3o0RrgkakzlAgqvDZE7O6wZIOec5m4M5qLN9TuDTFNh0l8/kpya05bWaWUwfxNPx/SXcAP9Jin4UXNKMJjEUlb7fuMJyTHHQUU9V7UYmKEfUnnhCnbtCV8pOu7WxBoauX4l2Hi7ag7gq4+r6AMIdlRPEVbG6xJ0mSbW"
+      "sig": "IcALBcSa09YVgfWqNYXoNf3PEbxqs3+HHFhqfPRuwkiYVh/6Z7o3TWkq4+3JaISY4OXz04hg0XpIgCtuT8POlRxcgKyYf+QS2ItNGMUnCCraROTkyCVIdLDuUaFGs7z2GkIyN1LhUh4T8F+/M80s64mD4uS99mlfyy6EGaqFpNIK6CT1KJrVuvLUSVuTB4QCld2s2xETGsUuywBLZzgAz+6Lt97yYl2JpqeESxhcEADI+yc6kIFJFSABVU0BqK7aI1b4ALpQ0Nz8/jNhct4iGIELO4gNnQn8t8PaogyWnUAZEgbV1rEpkVheOWO2yQKwzyet9QrnLhfiH69rVOlLsLkUdSF+spfuerf6jCN/3EED/Je9Rx4dNJta6W9lRKMETakswH4ijPELdwhBq9rH9enGZPbybbp5ay+UPN90LZ33rFUPQ8EYBnoZgCB/sVMW2ViRvhSVsIpokM1DLa2I7D9iKSMnuzbkAOBKnHGCn1Xyo7gDvBsMDQhY3haY1UI+"
     },
     "OmenSwitchLite": {
       "version": "1.0.0.2",
@@ -164,17 +150,11 @@
       "url": "https://app.gumroad.com/library"
     },
     "OmenLayers": {
-      "version": "1.0.0.4",
-      "date": "2026-11-08",
+      "version": "1.0.0.5",
+      "date": "2026-11-09",
       "notes": [
-        "BIG UPDATE: SHOW and TUNE are screen keys, and TUNE is a rail of all 12 modules",
-        "Templates for whole setups, with ten ICT starters from Hangman (AM) to TGIF",
-        "REMOVE one PD array at one timeframe in a single click, with UNDO",
-        "A cleaner chart: big zones unfilled, other timeframes as CE lines only, lines break around their labels, sizes scale for ES and NQ",
-        "An FVG that inverts hands over to the IFVG layer, and new default colors",
-        "A new Customize window with a live preview and one rail: Skin, Colors, Modules, Knobs, Buttons, Picture, Glow, Size and Sets",
-        "Report a problem from the ? menu: you see exactly what will be sent, and nothing goes until you press Send",
-        "When updates arrive, the update window also shows Omen tools you don't own yet, each with a 7-day free trial",
+        "The ? hint now lists everything in its menu, including Report a problem",
+        "Omen Rack: reports from its ? menu carry the Rack's own version, and Ask Oi shows the Oi icon",
         "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
       ],
       "url": "https://app.gumroad.com/library",
@@ -185,22 +165,18 @@
       "fits": "OmenDraw,OmenMTFCE,OmenInk",
       "lic": "OmenLayers",
       "asm": "OmenLayers",
-      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenLayers-1.0.0.4/OmenLayers_NT8_1.0.0.4.dll",
-      "sha256": "6844f4f26fcc3790fcc03b9daaea1ef4f86457a00f51a425169feb1620224d3b",
-      "size": "5412864",
-      "sig": "d+Hi+fmBOx1csX8iakDMelCa1X+VAnojv+NHtIw4hWzAmU/tjKwpF00ewGnVuBHdaA10KMTe3QBonpI7XNSyzUB3RNlkIajrqMOJ+xu2Z7ffrfLqFPsggPwvz4WxNIKKvvqD8X7zwnZehNo0pK2jzjVMse835y0BbntLemT3JKCrtG3+IKmjiLmJB4veNGcXQWNdvPZP2rtqp32OanJ7T7R5M5DV+Mql7vDf9htomXWcE+OKd++v5hswENKo6XMeV+tyXJh7Hcas25eI5gO3e6V1WShfAEmMpR+uaeuhecja194DkJuLDy7oMro4RptGAGoD44R82W11Sm9wo9Nt8tXAeMNcaz0ZtsXnVJSD2nNC4OnJNroV6hS68j4wSB6yDz+7RUKPoj8q8Hh2KFl0icwbydKe2/QjuXp0uO5zjyNrwLAWxNosJr6IVwlRWi0ibdhMtlDgk4Re5np1KspQV4PVSaLahIwLXkDdjxAejnaPvMpwhf9d1utcuMv1n+tZ"
+      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenLayers-1.0.0.5/OmenLayers_NT8_1.0.0.5.dll",
+      "sha256": "8ea440a76157681c827e34281b9d2bf51fdf4eada6f96c9c39b2fc9f8b5890e6",
+      "size": "5413376",
+      "sig": "ZLu5siYiS+sp7V47xfo6xacX7v/bSbAObMt0RU4ai1XAqSKHYvCjXnRtG+l0NUKXhU6opzucIaMjmF/TAmfPlb3kZ8JuMn1YXte+RxXuO5FXoFaDeIOXZh8tAlB5bYhmWKT2TAh8oW/Z9mzgOSa1g4yJIxuMnRyDIXHPvpUrj5bja59n7L+qL/DGuppqO7WMdruIU8wYNbXOxmOUAi+gJOsROVG51GBsowJU+FQyMNK8Smmv7IwhpOFBz+k0SroFnZtS41JNnnBnbqqFq7myISEgjScEfqHA5Mf81RbTS/ZEi1L3i+BiszwFsuA1356ueoD8VwimF3EbD1tbxZnbEyUHtSzzKBlHHzeES0E4M2w6pXKrPae5WOez2vEV9SxO4YTXQjNh1YF/14l3Jp0xx1h3XpdBoadSTuG0zsN8PZjLWRvQRvevRL9fZ7EcBvX8ZHOp7hIZJxxYOU7MxL8ifcabPouYJpQQw9EBOWkzDjttD00qfSzq05pJbqYZWPAD"
     },
     "OmenMTFCE": {
-      "version": "1.0.0.5",
-      "date": "2026-11-08",
+      "version": "1.0.0.6",
+      "date": "2026-11-09",
       "notes": [
-        "BIG UPDATE: all 12 timeframes always in reach, in their own display with bigger vote arrows",
-        "LIVE, WICKWATCH and TARGET keys right on the display",
-        "Templates, plus one settings rail (Templates, Flip Alert, On Chart)",
-        "The flip alert gets SOUND and a watch/confirm line",
-        "A new Customize window with a live preview and one rail: Skin, Colors, Modules, Knobs, Buttons, Picture, Glow, Size and Sets",
-        "Report a problem from the ? menu: you see exactly what will be sent, and nothing goes until you press Send",
-        "When updates arrive, the update window also shows Omen tools you don't own yet, each with a 7-day free trial",
+        "The flip alert warns again when its confirm timeframe isn't one of your 12 timeframes",
+        "The ? hint now lists everything in its menu, including Report a problem",
+        "Omen Rack: reports from its ? menu carry the Rack's own version, and Ask Oi shows the Oi icon",
         "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
       ],
       "url": "https://app.gumroad.com/library",
@@ -211,10 +187,10 @@
       "fits": "OmenLayers,OmenDraw,OmenRack",
       "lic": "MtfCe",
       "asm": "OmenMTFCE",
-      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenMTFCE-1.0.0.5/OmenMTFCE_NT8_1.0.0.5.dll",
-      "sha256": "2f37c00aafeaebad4631c0833053bd16737fc580ba5232a232d36497fe99b440",
-      "size": "5235200",
-      "sig": "q+8jGIJAFA27fQQloLQbnwlw3n9NmTQCKrj3IJK3rpWoss6ox+I75d3e8z4VTui7kKTJXG+f26aauYzp0+ntFOsp1rnYGo1lrxzfxg+n0UMYmug+JxQm1djKo1PByLt/uZuEusQhoPrCfvqiMaSwkyTdLKGt9C56tP26Em2PZecCl++13werIYfemlhWuY8eIO9Dnv69zM5JtJat556j3nYx0WFoZLuT5lQeVzVCVxlXqJuDDslcwo+WDujx535IreQilQ09lMa8OjwZFj5yyZosySksmDK+Q/xdeFDzgoyp0B2yuxzewHKkDxjoWNvMY47gW+Jw2mPTc0DOyzf8eQo5gxvV60DzSjB/Tx0Ygtf9jv8m1ZPM/d2eb33I608ya7BJ3jmHs921vJPJgaLorCPnUovWn3tCmtzK1oOQYXaIWukaIUa3f9ixvHQs0TiiOYYSUouM2IABgKy7umPi2ISai1xqSLw5KmtfuCvcHx3OoGIcVIjfwTLM1OvYazOc"
+      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenMTFCE-1.0.0.6/OmenMTFCE_NT8_1.0.0.6.dll",
+      "sha256": "5b2a6f7daf0186c49df65ab76d9778d8cdbbcd1a689c83ff2e1dd4faf1263db3",
+      "size": "5235712",
+      "sig": "S/CZWzqmUZXfIN4HG+D+EbppySfQa8+3+D6XIc8Ud4FltS3UDEL5vJrRZqcUBZl836ISLz5o0JQ03mllS1X5ELXBrlnkUAkz+SedE+UJy1rfXka4vFSs1vUrH43lUqLmUJUieGMM4pOER0x1+FOg2cQuUy9A3QtHOjganxO7SCQRqX9XwQv/wcHQrHDBqWxk2fEdxFPt/rvzl/q4AXJGGv/6xZGvn0UV3xwoio+PyqYXuo9nUrNFIdBBhDHOirkBdsX4Pa4Jujor0TIxV+i+cFxdq1FoNFkWWRs0Ud5zxuX1C3wBfkSio5HpCw1E3BuEhoG698T3V556jA1YSwmcF6mwSVHRFh+4d2Q+zTaBx98zr0VwWPpcuSgaeSlWcvvPoUPEugqPkI2vZzXwz0EvJxhwKBtoXN8qFlwES7IMesIpya/Q841lRWpfMTR1O0IW4a6sfPUpt+dcQJQNci1PUX01OGEv3rwPnpCqSgxfLd4dwnnR9zacOdIA21gV38S3"
     },
     "OmenRack": {
       "version": "1.0.0.3",
@@ -238,12 +214,10 @@
       "sig": "nFZqPnFDWlLquXkToSuYlHWcRYDC3YO9xL/T/KIkxwN86cKlaxP6GEyi+4EBaHOQXsRVp7KlJfJMjl61gLoDZDYV51UTVPcZwdcxWrt8QU5QMvZSqrOTu320yQ5Ir+I6B1+bgbTERDq4iLQPZfI9We9YAzdqI1lKdrpD+lXhrOXRjbuM/hoo1+3FxYrROk61Xa0V2JlAoxaMON1yuA+6nK+/T2J+4YhGO57/MmGozTLOFWeTKqjoR/HIffWwYDv2Mq5qCCUoVpSjhX+S6W0/w+XedIPZGFIc+FoFQlltV8B9xQolOFIEFn0HBagmBXMaOpKPgqF4MrTAizWVGfuV8X0IXWZ9IEUBut8M6hCvCWMGKB4xhRqa9o9ilvVwu9xtyYJnBhe/Gx4q/NyCQl9YLYVsDXUxCkygH5ThZsqlr3vT31MCXxURcr47scZMFWGwMblVU6HkRroPmnCKsPcm1sq5G5jZPM7QUBNOzNxk/FasfiRzwrjadJaexeMuszfw"
     },
     "OmenAccounts": {
-      "version": "1.0.0.3",
-      "date": "2026-11-08",
+      "version": "1.0.0.4",
+      "date": "2026-11-09",
       "notes": [
-        "A new Customize window with a live preview and one rail: Skin, Colors, Modules, Knobs, Buttons, Picture, Glow, Size and Sets",
-        "Report a problem from the ? menu: you see exactly what will be sent, and nothing goes until you press Send",
-        "When updates arrive, the update window also shows Omen tools you don't own yet, each with a 7-day free trial",
+        "The board's ? hint now lists Report a problem",
         "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
       ],
       "url": "https://app.gumroad.com/library",
@@ -254,10 +228,10 @@
       "fits": "PositionSizer,TradingDash",
       "lic": "OmenAccounts",
       "asm": "OmenAccounts",
-      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenAccounts-1.0.0.3/OmenAccounts_NT8_1.0.0.3.dll",
-      "sha256": "8ef1bc76327bb52ae234cd07c35db4d29704d95557aa02bef4ba41f98614d866",
+      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenAccounts-1.0.0.4/OmenAccounts_NT8_1.0.0.4.dll",
+      "sha256": "fcf25a52eff5acf07d62c6aa97b80f448718053090f98a4d9215d002ad0b696e",
       "size": "5046272",
-      "sig": "lwZbpM139xSBUoSvNg1H2cQqys0zWEILNec533/g1SRd0JpUnxF/cvGU+D8P6YfMpfHS+SclVkb0SBWNVbdf4ZNSGFqcYfBRHHwb9r1X1nvBwerqWuwzBhH2tVPWUU1IL2VERBJRRgPfeSV1Fv6XhThsbAlSwa5L/sUKbBWqAs6pz7iH0RHxltaGzTFBN/yAtBGdGmwa7gg3mE7tjkN1B7lJr+y25Dmu5VwDnYEbciwyh3nwhqEAk+FXjQjocihiC0Wkg8zgPcacj2QopL+E+YSiemq9OtBEhkzbGGYRxjYrG+brwca+zzEoww4Kxmh5Gizz8xA6CfciGEOrY5AUkAJ7sb/jQlJsNGYsfswtlpufQWF9KRJ8HKAXs1RUUOPuWc2WD/IgcfdJBm6Z5odxl0/bHlFqCocngjYCyccFOam2qZX0kEH8UI7tK+JrfcAMYZDgzMJYEAF4inKZKqreDumEf/mUjp+/lO8QDyIv5v54/NgYK5u+4MHQAaJ8la7x"
+      "sig": "GLmKxiwaruavf6jxJr6TwxBqo791vLgm/JlwhzEl5YicUADjum/ktS5QvFtUZ1yp/wenOkCkTecp5o8OaubGfaLW7ts33PBbgdgMRi+Us7xl2imRVeMxeVYzDFlI1P4JCAlaY+R2IkCQ9XtazXjkLXGXvVujrHyKO67N/cKlBqPI80a5AGXu/+NSErWlF09HTNEP0oUU0Z4xURMt7iDlbZHAv3XJojJ+v3KWd50CeXJ83XO0NcKRr7Q4I52xMcOmJqGBdn3HR6WNU8nfEwjebJcU4c07CdNEtF1CQnGIHOh2YEDIMrwzxGDwFltO9+oSMgDiirBGOCyAmPEyDDaxegt/+6J/5OZ/L9JEcO/aC4AZHpw9o9VrdJZAD0GvygqwJrkMouSsFSKNyvp+jgZfb7BznInwT7ojAHc6OlB14wxhPBqrwNmgoJdhiHI1xKaJhQoSkkhD5bi7fdie6qEVKrgNONcCoIjoiq34TTHRs7a4PL5J20KaPRq0ZgfuB35+"
     }
   }
 }
