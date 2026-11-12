@@ -123,10 +123,13 @@
       "sig": "laMko4kigRZzzMd3y5MBD5Pqu8aIHqyvwLhb0Sr1Vs44cAOYH/iTEI2pElYqeiKDGqgYG08KwGQALH2gk4kusLYY8D/0F5cVNMurSEXhoUX5NvOU1sDEYjREgj46eImTgDWY+YJn0NzzVZAQtTLNxQakmh+GL2qPEkZ5jFu2mh3r8TshCCh2tiAbOytBfJDyBzOqH+C3hAxvuokFxyLG0PuFbGigOsZpBlzQMJ6a3MjklhGoAUGjoOYL5jxwcxVXO4eDuVhMFRGSDWb8WVZPiZuqSOHkjYocb2eGdcvqBMv1f1xNkW6lSiiurDBh1VEMWx2JhqOfZoUBLZPw1bCEK+/iaIOphKdA2lnzmtQopUQaGbXc9lFYISHheahcN0QdFzR0a/G0ALDNN9KDVivlTibI5bmSwT2LIdDn3g3BbX4tT0h9Ua/fNy7hswUlJOPEb7eCwms/n0jVScd13Zt/K2jRMvsybmCmdZvkX8ZsBcjNNMXAH/URoCA80DA+bASU"
     },
     "OmenSwitch": {
-      "version": "1.0.0.5",
-      "date": "2026-11-09",
+      "version": "1.0.0.6",
+      "date": "2026-11-12",
       "notes": [
-        "The gear's hover text says right-click opens help: Ask Oi, Contact Mike and Report a problem",
+        "NEW: Candle body and wick set apart. On COLORS, the CANDLES group has a Body opacity stepper (10 to 100%)",
+        "Fade the bodies and the outline and wick stay at full strength. Switch puts the new Omen Candles bar style on the chart for you",
+        "Outline and wick: UP / DOWN COLOR follows each candle's color, OWN COLORS shows its two pickers right there",
+        "The COLORS page is split into CHART and CANDLES, so you find each color where you expect it",
         "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
       ],
       "url": "https://app.gumroad.com/library",
@@ -137,10 +140,10 @@
       "fits": "OmenRack,OmenInk",
       "lic": "OmenSwitch",
       "asm": "OmenSwitch",
-      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenSwitch-1.0.0.5/OmenSwitch_NT8_1.0.0.5.dll",
-      "sha256": "3e2cfee94e299cc76386ecd804c0383663a4360cfd57a5c34d5c8e7c10c267dd",
-      "size": "4320768",
-      "sig": "IcALBcSa09YVgfWqNYXoNf3PEbxqs3+HHFhqfPRuwkiYVh/6Z7o3TWkq4+3JaISY4OXz04hg0XpIgCtuT8POlRxcgKyYf+QS2ItNGMUnCCraROTkyCVIdLDuUaFGs7z2GkIyN1LhUh4T8F+/M80s64mD4uS99mlfyy6EGaqFpNIK6CT1KJrVuvLUSVuTB4QCld2s2xETGsUuywBLZzgAz+6Lt97yYl2JpqeESxhcEADI+yc6kIFJFSABVU0BqK7aI1b4ALpQ0Nz8/jNhct4iGIELO4gNnQn8t8PaogyWnUAZEgbV1rEpkVheOWO2yQKwzyet9QrnLhfiH69rVOlLsLkUdSF+spfuerf6jCN/3EED/Je9Rx4dNJta6W9lRKMETakswH4ijPELdwhBq9rH9enGZPbybbp5ay+UPN90LZ33rFUPQ8EYBnoZgCB/sVMW2ViRvhSVsIpokM1DLa2I7D9iKSMnuzbkAOBKnHGCn1Xyo7gDvBsMDQhY3haY1UI+"
+      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenSwitch-1.0.0.6/OmenSwitch_NT8_1.0.0.6.dll",
+      "sha256": "0a55c65ed6e73508fbd78e2f2d811eafd71a9d3e7036be9d72924f75a7253659",
+      "size": "4330496",
+      "sig": "XYH89BSXfldfLo8ZQPr0YItK90iSJahLA0vZIzCD2xNZC9kO0Z6HJuqNKKoUXpkcyM0BuDA1HtmbWd0yZB5rhcfRrY/1X42hbQb317KsjfaIaOLTk+5QEBPPJa6dPDQKCMGTLkaTU5QZYUf9KL5QTN+u/2flP4hu3F3WUXNjP5h995RkOc6I90pbUAW4uYomExBZMDOZzWOhGi653K70XfXc+vMAhTLfgLdhm6bbhmsLnps7xiA3THfO+9UaQL9arByb7fAcl7H/Sp33A5LcJm+hrjm+TVU0H6VG0WYBVzhagpe7LU/WX7mfCOKIw8RWgODeRNrN+fli6FFw3gWP8CFgcLOYGb7+Genkzla5iZuJuZqtGbP9Rem+pudXsurZGzV4qYZi2cl3HmPcc/X4lL91iSFSerZ9zDbfbP5xYlix5aPfxpLufyEQj+oYxdNg6iuJv3fQOQboBHDn0lRMjcDA63KZuPwT+rxH/WkUN6JQzIWMW8erOwNqL40EDMmJ"
     },
     "OmenSwitchLite": {
       "version": "1.0.0.2",
