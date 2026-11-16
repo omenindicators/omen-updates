@@ -97,16 +97,18 @@
       "url": "https://app.gumroad.com/library"
     },
     "OmenInk": {
-      "version": "1.0.0.8",
-      "date": "2026-11-15",
+      "version": "1.0.0.9",
+      "date": "2026-11-16",
       "notes": [
-        "Esc anywhere in the chart window now puts the drawing tool down, so Ctrl+drag box select works right away",
-        "Ctrl+click on a drawing while a tool is armed (KEEP DRAWING) puts the tool down and adds the drawing to your selection",
-        "Once a drawing's first point is placed, Ctrl still flips the magnet",
-        "A selection glow left on a drawing now clears by itself",
-        "Fresh Oi logo on the Ask Oi chip",
-        "Scrolling the dash with the mouse wheel no longer catches on wide controls: their outer edges always scroll the dash",
-        "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
+        "New: Omen Ink works on every chart. The Ink bar puts the drawing tools on every chart window (top, bottom or floating; buttons left, centered or right). Pin the tools you use most for one-click buttons, drag them into order, or hide the group buttons. No indicator to add.",
+        "New: on charts without the Omen Ink indicator, the quick bar and the dash work too. One dash follows the chart you click; the DASH key hides it and the quick bar keeps working. Ctrl+drag box select and Ctrl+click groups work there as well.",
+        "New: Volume box. Drag a box and a volume profile of what traded inside it fills the box: point of control, value area, buy minus sell per row, volume nodes. Exact from tick data saved on your PC.",
+        "New: Anchored VWAP. Click a bar and the VWAP runs from there, live, with up to three deviation bands. Click-drag to stop it at a bar.",
+        "New: Hide Selected, next to Hide All, and an eye on every Objects row to hide or show one drawing.",
+        "Control Center: Omen tools sit together under one Omen Indicators line in the Tools and New menus; the Ink bar shows On or Off there.",
+        "Ctrl+click a second drawing while one is selected: both join the group. Each chart's dash keeps its own layout and settings.",
+        "On a chart with no bars yet, Omen Ink tools wait and say so, and drawings far off screen cost nothing to draw.",
+        "After importing, while flat: restart NinjaTrader (the Ink bar is new and starts with NinjaTrader)."
       ],
       "url": "https://app.gumroad.com/library",
       "name": "Omen Ink",
@@ -116,10 +118,10 @@
       "fits": "OmenLayers,OmenDraw",
       "lic": "OmenInk",
       "asm": "OmenInk",
-      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenInk-1.0.0.8/OmenInk_NT8_1.0.0.8.dll",
-      "sha256": "d234790b7301ee9091b9c148811385bf083272faa809bb6bc338f673da40d352",
-      "size": "5514752",
-      "sig": "U9pjlzrK3JhNFYwO5ycR+auiKZBfmleZt7uoz3hznb2O/4+P8CYvMldeVQ8w6WrC37jVVgLxeBiVg9Fdnzqzk2wR19klLzWofuRDb2s/PaqyUinyFQ5Vy5bmfmbISn8PiLm6Ua5zm+cK1UdHK+WrMYxFX8cWeNT2jKTatI4tBFtfjT6mOVOlW+UGrB8x44YLYGKmVOQM5DJGEGTRxK2IY5h9YI45BVdXTQgP/H3vV4P2SNZ+Fj9ZFOE0riqTDVH0B8yLCKFKXak+NJLjmX1fxH9a5gGJxgjxpIiCLqhZ/ewHSPqghqjEtVqaq4v5dI+z89VR2edHnDgI0Wa+c2JX233os7E9r3fuvCV6r+2qHEGiumAr1TVGa+LgUY7cEfESXWAX7H2TcG5UwHa8Q7/Tzo3rmgljN72KNz1hG/ATsik7sOt7gjaRMzhr2y2GA5W8YTJLvACCz/L4sJXDY7uDRD+zYrEmgvlDPhKHD1egBrYNP+Z6M3KsIMgY7qE/In5H"
+      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenInk-1.0.0.9/OmenInk_NT8_1.0.0.9.dll",
+      "sha256": "913aefd23ad01e6388bfddd7851ecc73f309e4f2de8fdb9505dd76c0e295887c",
+      "size": "5735936",
+      "sig": "PKodLbXx0mSwOmURSu8OzmdAS528bAcC72nOgWM/gCm0xgj9BdKK/HlB5KI+DOHALa6iVdwUa+6q37uOOsIjUynHoZRUEC+6tZVJgCkQ9F/ZszySJ/j/DHDLcYLIOkQHAXnNGSH96IVdzos1xK/gtIaq4eTc0SLNsviq6galuVa6/kxUx8KoE5nxAbQZgcU/maLya1EKl/XcCMpYbSUyWPByyt43nguWD5p+kRGnWkHawX3y8Faq8dnuIFcuzUOWFMug4omVNl1lqodSoHqxVWBO1labivuyslzPh195j11ZMGeHjacL8Conn5qki5qu04gktkJDLmloJyb5Yo8Xu/netKU251UGI1zKIe8lcTwDTxSSXrqJcIzuV9cW5mzm7wj7CyuYb5G1Ntd6oGo68hLP9FrRU5FAb2x7pADCHIOLU9hMeXtIlTdW8uzc0B6d4Mi+smhMnslzsNaEqQqdgXGwmPf2TtrdAICuVfAhSXhD3vQQASuBscD2FAgphuGy"
     },
     "OmenSwitch": {
       "version": "1.0.0.7",
