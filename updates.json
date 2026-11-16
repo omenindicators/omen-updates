@@ -236,6 +236,28 @@
       "sha256": "c006fd90eddc204d799172ccc2a6660164099dfab51de2145a24f04a6667939d",
       "size": "4916736",
       "sig": "PR1GWpMqgSONkCbyfKC0JHjMZRk+yw5xsEcMw26J3/a5eF64hgLOkfc/lXTbXdoZQOgKqK/qYDant0TRHtymFznb6zYPLsnMTVu08xo9byJAaetGXOvHYy2gqkXisu6mMZuKUCdSw4V1oCnNPWlWdQlXq3gmv70uwyNPQmUqkpp6UihLZQ6t+ugz1FTzLnHxzxgpAH6CDm9Cj5JTHdMIAKUnReSNSuv27Vq7A8vRNqnjB9ceGnHhFkSFZPT9iKCUcbBCs0Np8E9hPI0tvPKOpQ/whj4eJrPDDNeOgr1ct7cEJyMB3qSSLVTJb+dTRevfySfCgNJVym7MqWF9gu8hN/aFFFHl5+5aaldEBDL4y7N/8ksprPSLEC8PXs/WEbhypS8eRn3Rni/xeSKE2Uldu5HdXGLtoJYT1ht4MVdbiGosDzZDwIv7iYfGCVMYKkMPWxOfRVoRJRkClAWFy6reqG0n3yNjoX3hXHTm/OD+D9cED3HL5XgIYV6yug51fQ4l"
+    },
+    "OmenCore": {
+      "version": "1.0.0.1",
+      "date": "2026-11-16",
+      "notes": [
+        "New: Omen Core: RSI, MACD and ADX with plain-language dashes and the Omen Core window",
+        "Live mini charts that line up bar for bar, CHART VIEW, HIDE PANES and your conditions in one line",
+        "Your own signals on the candles with Omen Core Marks",
+        "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
+      ],
+      "url": "https://app.gumroad.com/library",
+      "name": "Omen Core",
+      "pitch": "RSI, MACD and ADX as live mini charts in one window, lined up bar for bar.",
+      "trial": "https://omenindicators.gumroad.com/l/gcrczh",
+      "pic": "https://omenindicators.github.io/omen-updates/pics/core-1.jpg",
+      "fits": "OmenRack",
+      "lic": "OmenCore",
+      "asm": "OmenCore",
+      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenCore-1.0.0.1/OmenCore_NT8_1.0.0.1.dll",
+      "sha256": "192155ac0073a6bdbce30e4f5ab5b42b7cc9255e368c4e7cd5247a322ebcc089",
+      "size": "5507584",
+      "sig": "A3jV7TJL+YpYsKML0Dc7GvA7N7rTto83riLEEqHHTP/QLTPuoj1uPOJoSfQHQis7do2UXz155ukhlSlrqRaw2eCvx86kUT3ClDumhVUH9NvgzwtMC0qj4yNtHNIGCPaQO2D554y9ZAcHmciCUsoGqslSv31Jclg2JMt91yNPyFnVseh3MN62bMV7B7KhkY3uZHXq3UZuq2wmVdqv9/uCo3wzvBHInITtuloyNv9ZL5cyo1SH1lxLGAj+Y/JhUCUP+P1fHlrritStg4sxyTlycyC50xGR6NHZTir1h9S99Ar51/2/3cCPzWmriRlqSPaPGF/Qt5EtCKs78gAoFtKmBZWqIORaJU3IP3H3mnZVNzUm9cxQoz2GaIUoa3d5frKMFrT/EK1L6W+2SHrEKEYhg+loXGPcOvRSeNMxNNBcAY+pAyPHEiXTkTht/A0w2Quq8GKA1MTWMkMBgTlKCZL3GgOn7RtppTHX4CteSiR2L5dSl4b1W4KzNz/ybaCF/Qks"
     }
   }
 }
