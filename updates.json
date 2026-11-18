@@ -97,31 +97,26 @@
       "url": "https://app.gumroad.com/library"
     },
     "OmenInk": {
-      "version": "1.0.0.9",
-      "date": "2026-11-16",
+      "version": "1.0.1.0",
+      "date": "2026-11-18",
       "notes": [
-        "New: Omen Ink works on every chart. The Ink bar puts the drawing tools on every chart window (top, bottom or floating; buttons left, centered or right). Pin the tools you use most for one-click buttons, drag them into order, or hide the group buttons. No indicator to add.",
-        "New: on charts without the Omen Ink indicator, the quick bar and the dash work too. One dash follows the chart you click; the DASH key hides it and the quick bar keeps working. Ctrl+drag box select and Ctrl+click groups work there as well.",
-        "New: Volume box. Drag a box and a volume profile of what traded inside it fills the box: point of control, value area, buy minus sell per row, volume nodes. Exact from tick data saved on your PC.",
-        "New: Anchored VWAP. Click a bar and the VWAP runs from there, live, with up to three deviation bands. Click-drag to stop it at a bar.",
-        "New: Hide Selected, next to Hide All, and an eye on every Objects row to hide or show one drawing.",
-        "Control Center: Omen tools sit together under one Omen Indicators line in the Tools and New menus; the Ink bar shows On or Off there.",
-        "Ctrl+click a second drawing while one is selected: both join the group. Each chart's dash keeps its own layout and settings.",
-        "On a chart with no bars yet, Omen Ink tools wait and say so, and drawings far off screen cost nothing to draw.",
-        "After importing, while flat: restart NinjaTrader (the Ink bar is new and starts with NinjaTrader)."
+        "Price Range, Date Range and Date & Price Range: the label's text size is now a setting (the SIZE key on the quick bar, the TEXT knob on the dash's STYLE page, or Properties > Range > Text size), remembered for your next drawing and saved in templates.",
+        "The Omen Ink bar's highlight color (the DASH key when on, the tool in use, pinned tools) is now your choice: ⋯ menu > Highlight color, with the same color wheel as the dash.",
+        "The Omen Ink bar's ⋯ menu shows a small picture beside each choice, with the current one in your highlight color.",
+        "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader."
       ],
       "url": "https://app.gumroad.com/library",
       "name": "Omen Ink",
-      "pitch": "54 drawing tools that snap to price, with position tools sized from risk.",
+      "pitch": "56 drawing tools that snap to price, with position tools sized from risk.",
       "trial": "https://omenindicators.gumroad.com/l/sqjuyq",
       "pic": "https://omenindicators.github.io/omen-updates/pics/ink-1.jpg",
       "fits": "OmenLayers,OmenDraw",
       "lic": "OmenInk",
       "asm": "OmenInk",
-      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenInk-1.0.0.9/OmenInk_NT8_1.0.0.9.dll",
-      "sha256": "913aefd23ad01e6388bfddd7851ecc73f309e4f2de8fdb9505dd76c0e295887c",
-      "size": "5735936",
-      "sig": "PKodLbXx0mSwOmURSu8OzmdAS528bAcC72nOgWM/gCm0xgj9BdKK/HlB5KI+DOHALa6iVdwUa+6q37uOOsIjUynHoZRUEC+6tZVJgCkQ9F/ZszySJ/j/DHDLcYLIOkQHAXnNGSH96IVdzos1xK/gtIaq4eTc0SLNsviq6galuVa6/kxUx8KoE5nxAbQZgcU/maLya1EKl/XcCMpYbSUyWPByyt43nguWD5p+kRGnWkHawX3y8Faq8dnuIFcuzUOWFMug4omVNl1lqodSoHqxVWBO1labivuyslzPh195j11ZMGeHjacL8Conn5qki5qu04gktkJDLmloJyb5Yo8Xu/netKU251UGI1zKIe8lcTwDTxSSXrqJcIzuV9cW5mzm7wj7CyuYb5G1Ntd6oGo68hLP9FrRU5FAb2x7pADCHIOLU9hMeXtIlTdW8uzc0B6d4Mi+smhMnslzsNaEqQqdgXGwmPf2TtrdAICuVfAhSXhD3vQQASuBscD2FAgphuGy"
+      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenInk-1.0.1.0/OmenInk_NT8_1.0.1.0.dll",
+      "sha256": "0afbe1581a45b2bd84c51e3d66cbcb332eff9dd65e10655ef987916939f9df23",
+      "size": "5742592",
+      "sig": "mhgKQzEMbY1JbY51Lh5tUvVyooHsiqgLIovPqCkIxT2otvZURzw6WNJu3r3f0+a9aTbkCBmi0ePPzgqUtha5xOPyhbDAR7EqUW7nM6CQk7oYJhpyY/Re/FHrTBmrcXctzGIHRMAOlGVId6Agpu54TXWcrL7R7VKEJB+bL6C+E3n18gLr7CsHaga11wgVKQieahTcsofZbZnXgCbcDRHxY5V2zmDykbjhmS+wMjSgl684zghJQq/0x6RLj+FTcW6hYE8SbBP6GdX/mSMj8ola1O8F8J/KKOBU6pq4OYjZhLMISrIz6B2LuaJiTffAwvR2eNzm4WDpcTk+Agj5aoP3F1GHtw3XgaVXJbq3ETEQGZ2QGh9p7JXpaV++/cMAMImhsciEhThrmL2WYzKF9wyqTjLz60EkgviB+aohWXcqYmhDFW/+eCkadltHzSa/5mQMi+6mBzHE/J0CTwLddlQamOiQvuq+lzYqRhb6Y3wTuDkpUcRB1xngAv8Lc8VrD89c"
     },
     "OmenSwitch": {
       "version": "1.0.0.7",
