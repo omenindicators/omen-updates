@@ -97,12 +97,12 @@
       "url": "https://app.gumroad.com/library"
     },
     "OmenInk": {
-      "version": "1.0.1.0",
+      "version": "1.0.1.1",
       "date": "2026-11-18",
       "notes": [
-        "Price Range, Date Range and Date & Price Range: the label's text size is now a setting (the SIZE key on the quick bar, the TEXT knob on the dash's STYLE page, or Properties > Range > Text size), remembered for your next drawing and saved in templates.",
-        "The Omen Ink bar's highlight color (the DASH key when on, the tool in use, pinned tools) is now your choice: ⋯ menu > Highlight color, with the same color wheel as the dash.",
-        "The Omen Ink bar's ⋯ menu shows a small picture beside each choice, with the current one in your highlight color.",
+        "Parallel Channel: steadier handles. Drag any corner to move that end of the channel (both lines move together and the width stays the same), or drag the square in the middle of a line to raise or lower just that line. It works the same whichever line you drew first.",
+        "Fib Channel: the same handles as the Parallel Channel. Drag a corner to move that end of the channel, or the square in the middle of the 0 or 1 line to raise or lower just that line; your levels stay spread across the channel.",
+        "Fixed: the Omen Rack window could open off your screen (it showed only as a blank preview on the taskbar) after it was minimized when NinjaTrader closed. It now never saves an off-screen spot, and opens centered if its saved spot isn't on a screen.",
         "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader."
       ],
       "url": "https://app.gumroad.com/library",
@@ -113,10 +113,10 @@
       "fits": "OmenLayers,OmenDraw",
       "lic": "OmenInk",
       "asm": "OmenInk",
-      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenInk-1.0.1.0/OmenInk_NT8_1.0.1.0.dll",
-      "sha256": "0afbe1581a45b2bd84c51e3d66cbcb332eff9dd65e10655ef987916939f9df23",
-      "size": "5742592",
-      "sig": "mhgKQzEMbY1JbY51Lh5tUvVyooHsiqgLIovPqCkIxT2otvZURzw6WNJu3r3f0+a9aTbkCBmi0ePPzgqUtha5xOPyhbDAR7EqUW7nM6CQk7oYJhpyY/Re/FHrTBmrcXctzGIHRMAOlGVId6Agpu54TXWcrL7R7VKEJB+bL6C+E3n18gLr7CsHaga11wgVKQieahTcsofZbZnXgCbcDRHxY5V2zmDykbjhmS+wMjSgl684zghJQq/0x6RLj+FTcW6hYE8SbBP6GdX/mSMj8ola1O8F8J/KKOBU6pq4OYjZhLMISrIz6B2LuaJiTffAwvR2eNzm4WDpcTk+Agj5aoP3F1GHtw3XgaVXJbq3ETEQGZ2QGh9p7JXpaV++/cMAMImhsciEhThrmL2WYzKF9wyqTjLz60EkgviB+aohWXcqYmhDFW/+eCkadltHzSa/5mQMi+6mBzHE/J0CTwLddlQamOiQvuq+lzYqRhb6Y3wTuDkpUcRB1xngAv8Lc8VrD89c"
+      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenInk-1.0.1.1/OmenInk_NT8_1.0.1.1.dll",
+      "sha256": "33e93e9e536a6768abaf86797a05440a2c0ff5fd7193fee6552ec0d6b5b0701f",
+      "size": "5748736",
+      "sig": "nc+I/dxvK4dSPQJw/PS/TLY6K5Tc8q/u9lEPaRrEobND10BtnOEYv3Pnv4T7kP5kgEsRBIZhIs/I4911VDv47ZxBJXUoR6DDEfL4MR0PzVE7AFLqYQGhz1+snHsJqC7AfZtMVLlv/kL4xbGaPadiao+DPUPKRG5OiC8FQrVgxuCkEitOCbRUe8jedojHMkPuAtzNm3wSKsjYT2bVPLESAPTgfwLKUa8udD0M5sHlelTfSxm+IjO/Yfj1rWAZ0MliW/nci+4w5UQYBSlWrDgI9HvM4KOARhbxmYEj+AxX9fHQrFQ2S9zei68qdVXJY5i/4ftbNybj8V6YzAXf9soLrClz3G6U4w1psSVRubzHjfANs0dQrCoOu+FhW8xjb0Oyvs5qAYqn+k/XDn38nL87Gh26WT0ttWr+8lCrO+MPD5C5gVvbcgl74yd34iOcA2FV7Si3Ohmu9Japcqb8csdxp+ABb/1E9wIHatj5AVIwfEZdHRU5kLLGEMaG8c4jRyMv"
     },
     "OmenSwitch": {
       "version": "1.0.0.7",
