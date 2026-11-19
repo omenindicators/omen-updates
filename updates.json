@@ -97,9 +97,10 @@
       "url": "https://app.gumroad.com/library"
     },
     "OmenInk": {
-      "version": "1.0.1.1",
+      "version": "1.0.1.2",
       "date": "2026-11-18",
       "notes": [
+        "Fixed: with several chart windows open, the Ink dash and quick bar could flash after NinjaTrader restarted (the dash kept jumping between charts). It now follows only the chart window in front.",
         "Parallel Channel: steadier handles. Drag any corner to move that end of the channel (both lines move together and the width stays the same), or drag the square in the middle of a line to raise or lower just that line. It works the same whichever line you drew first.",
         "Fib Channel: the same handles as the Parallel Channel. Drag a corner to move that end of the channel, or the square in the middle of the 0 or 1 line to raise or lower just that line; your levels stay spread across the channel.",
         "Fixed: the Omen Rack window could open off your screen (it showed only as a blank preview on the taskbar) after it was minimized when NinjaTrader closed. It now never saves an off-screen spot, and opens centered if its saved spot isn't on a screen.",
@@ -113,10 +114,10 @@
       "fits": "OmenLayers,OmenDraw",
       "lic": "OmenInk",
       "asm": "OmenInk",
-      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenInk-1.0.1.1/OmenInk_NT8_1.0.1.1.dll",
-      "sha256": "33e93e9e536a6768abaf86797a05440a2c0ff5fd7193fee6552ec0d6b5b0701f",
-      "size": "5748736",
-      "sig": "nc+I/dxvK4dSPQJw/PS/TLY6K5Tc8q/u9lEPaRrEobND10BtnOEYv3Pnv4T7kP5kgEsRBIZhIs/I4911VDv47ZxBJXUoR6DDEfL4MR0PzVE7AFLqYQGhz1+snHsJqC7AfZtMVLlv/kL4xbGaPadiao+DPUPKRG5OiC8FQrVgxuCkEitOCbRUe8jedojHMkPuAtzNm3wSKsjYT2bVPLESAPTgfwLKUa8udD0M5sHlelTfSxm+IjO/Yfj1rWAZ0MliW/nci+4w5UQYBSlWrDgI9HvM4KOARhbxmYEj+AxX9fHQrFQ2S9zei68qdVXJY5i/4ftbNybj8V6YzAXf9soLrClz3G6U4w1psSVRubzHjfANs0dQrCoOu+FhW8xjb0Oyvs5qAYqn+k/XDn38nL87Gh26WT0ttWr+8lCrO+MPD5C5gVvbcgl74yd34iOcA2FV7Si3Ohmu9Japcqb8csdxp+ABb/1E9wIHatj5AVIwfEZdHRU5kLLGEMaG8c4jRyMv"
+      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenInk-1.0.1.2/OmenInk_NT8_1.0.1.2.dll",
+      "sha256": "0c5f45890db4dcb77700bbd74ace617a3b1db9f7c9d84b640436fb700a3b3255",
+      "size": "5749248",
+      "sig": "FCG1/c8f1x4gCP471IFmXtH8cYhSFu7ZHDmc4k3eNshVg8xhrk1cL0MrvZAAf4HbmDm6MHtNzQmJ4IjhWvGkgRWqwdxXSo3INBrIgeamTrjt+2XOEY4pTUPCzPbSp7sykuKcSpnKerbVctv7ZEcBIbr7YzgAnqYJBllbpQPR50cG08+YlPNdFDYNhCGbpqHDOzDM5Y9WOj3FysU4+CrojKZSAkaVJ1/9PrNCLbBjgvGtucHshbZKraG9nnPd0055O47A/hey3QMBt1IJItUfbpobdLTHqnZcxMjMp4jPvHohkW+VwwEo6K/Iy7RxduJBfWYbTrql527aFMfmHEp3m6gHkhg9edtVgYPZ9vVkzZXBZN7Z+VyL7y2u4OKd0eJSETPk7osvJUcp003egIt4by7yK9H0Qv8SlznXKLTwzulGxqLFG2j6gB1KYhdWeC+Jck0joAX0qr/bt+SNEw33S5QngGPJO7L51rVzrhj/IFo+WmzYPPEkxb2463LtQJBq"
     },
     "OmenSwitch": {
       "version": "1.0.0.7",
