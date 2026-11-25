@@ -272,17 +272,16 @@
       "sig": "YXHnj09sw/a+f+mS4EluRFJUrkLLxcEKWxTG5674R7taXx9hQQMvazcmbLkfH/IkE17bGTqZKlO0wE8NRqpq4kfDVHrS7bMNBm6z5FRtRlVYKZD1REB9oaKq26ZYm20Hh1+c5FkJMJ1tmaTgarqYZ4CNB0UTZC1C5h0hg13iyfGMgEt4KXLvVLVqOAlPlKWcXmfHPvO/R5qntsvFrJBwdwhvqmZkBCotJOKQcfJZQNX3AOphkxb2s+rNPv0na5YiXMRKW6bzc/Ekt6+ilfisCyu8SneXHkaUKn3rN6pfnISL1PV7d3AZW+uRTfkR7MKwCxgiSzI+/nkEI0r0HdbanLkPEtLkC47ik6XN24ByFzr8vGAj7cmJ+NzRJMl0TN+xJyQJDYzKc6ox9XVe63drYTBSXJBW8QtCyODx9P5L9yaUtTda6EV7O3NNmbzwdQISr9ZSL1dXUu32foUcNqaGdFjKBarFqUqbaMcT7l8A8awdjjZDU85cyG3DBBPpq9SV"
     },
     "OmenCore": {
-      "version": "1.0.0.2",
-      "date": "2026-11-22",
+      "version": "1.0.0.4",
+      "date": "2026-11-24",
       "notes": [
-        "New move card: Pane, Chart column, Core window, Omen Rack or Own window as pictures",
-        "MOVE ALL in the Omen Core window moves every Omen Core indicator at once",
-        "Fixed: RSI, MACD or ADX on the price panel no longer stretch the price scale",
-        "New cards in place of the old menus: help (?), size (Aa) and look, with picture tiles",
-        "One size card on every dashboard: DASHBOARD SIZE, DASHBOARD TEXT and CHART TEXT, in steps, with one key back to the defaults",
-        "Drag a dashboard by its grip to the other side of the chart and it moves there",
-        "Omen Rack: + TOOL adds or removes Omen tools right from the Rack; the Rack opens even with no tools and shows every chart tab",
-        "Control Center: every Omen tool now sits under one Omen Indicators line",
+        "New add-on: Omen Stoch, NinjaTrader's Stochastics with zones, a %K/%D cloud and your own signals (sold on its own license)",
+        "Signal effects: pick how each of your signals lights up when it fires (beam, ring, glint and more)",
+        "The mini chart now sits inside each dash, wherever it is; the Omen Core window's mini charts show the time and the crosses",
+        "New color template OMEN SILVER; candle rings show up and down signals in their own colors",
+        "Candle rings just work: the first Omen Core indicator adds Omen Core Marks for you, and Marks needs no license of its own",
+        "Omen Core window: the tiles light up when all your conditions agree, and a tile whose signal fired gets a glowing edge with a FIRED ✕ to clear it (both colors are yours)",
+        "Fixed: moving a dash to its own window could open an empty window",
         "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
       ],
       "url": "https://app.gumroad.com/library",
@@ -293,10 +292,10 @@
       "fits": "OmenRack",
       "lic": "OmenCore",
       "asm": "OmenCore",
-      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenCore-1.0.0.2/OmenCore_NT8_1.0.0.2.dll",
-      "sha256": "265955668e2b96b3d439a14c26422384b92c6c702d367ff841b4a28f5fc7b902",
-      "size": "5602816",
-      "sig": "m7d3KD0Cmh3qDabXzHUlha4o+aTZnIcOgFrAridbcsNvZyJls1R7tCav+aBzIN2l8HZ0kvVG7YaEMOgCg32T3TmtPQzdNPOvslJHQCd9MLlxXmmP3VMVihhj8R+z8J4KQPLN415j1hlJRae7iWqq5x0OLEH8N9D/GcEK/3+wezcvzpTHtWmljhqnuiWF/56N0HgvrAcDA2PWqLQILfdXUqOn9AmQKXBDhw7hlIfO6mBMqYitA3qXEeM+PFBE8c8RIwhh1RyQFfzuxO2MY/KYGnCiixc9NzBgNUhixTIYLiShLeyYPdbNIcjfAY+W3Ub/MxqUCKCZcPuLCL+u6IRdBh2iTxmyI8RpNEjVovPg+XY9207k8Zax+gryu4UmliUheUwoXXph8V/61eZod/Ttp/ajFJ02cS22oh14nuxl4V+NgGyV/1EDwMr/zaUjC2n225Gh9lKt1c2sMBwjfO63vAWrzw3/+SOdOQU0wFcIfjbtCI8sqIO08gsn4HAnXPm8"
+      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenCore-1.0.0.4/OmenCore_NT8_1.0.0.4.dll",
+      "sha256": "ec586fd8d0078e147ae06ddf836f50ffe49fcce2499a388271ec62c60e933a31",
+      "size": "5849600",
+      "sig": "BVxBcD4zjJaxFe64q/s+yDBOKwJbzBjzmiwzAF0P5ZQpUJVq9B73+zA+jkSU/wk0GQRjtWWYfyGCholFegqiCnOJ0oAZB5YDLzoZmwXkXscpjtVBM37nIhkx+zVgWsdpOCg+C424pQxgC32QklQWGlkTh10IokKW8C9qUI9d80pZQdWo4M88ycdQ9wE6AYaF/CY2hm/bIx5vpjt8BgyhFmUUz1QL+taFuYpXs/v8JCnsLYcoxHpItP0E2T71v+jp4I153ZTNLnGSvXPoEa6txCmTWjzUpn1XJ/S6bnicS2E6cP+8NiYkRlSbBLb02mpsMmeIWjAo/3P5zWbxTDhIBrNYyuPvzmsnIt9UIOGcZinqv6CYjrBlsEs8bKNanNh+hR1sswzef6ykEanYjvoBoF/xNOTOBLNtXgObacrpLYwWcNGHD0HIJY8dr3epWl5Dm/PtscqgroS0ZTnj1bJ+txiS25hIHfpPMRtaEy74Hah9p6um0Yr5dANEXqq3eQSQ"
     }
   }
 }
