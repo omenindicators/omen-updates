@@ -275,7 +275,7 @@
       "version": "1.0.0.4",
       "date": "2026-11-24",
       "notes": [
-        "New add-on: Omen Stoch, Stochastics with the same numbers as NinjaTrader's built-in one, plus zones, a %K/%D cloud and your own signals (sold on its own license)",
+        "New add-on: Omen Stoch, Stochastics on the standard calculation with zones, a %K/%D cloud and your own signals (sold on its own license)",
         "Signal effects: pick how each of your signals lights up when it fires (beam, ring, glint and more)",
         "The mini chart now sits inside each dash, wherever it is; the Omen Core window's mini charts show the time and the crosses",
         "New color template OMEN SILVER; candle rings show up and down signals in their own colors",
