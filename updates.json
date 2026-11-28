@@ -131,7 +131,7 @@
       "version": "1.0.0.9",
       "date": "2026-11-27",
       "notes": [
-        "New skin: Crisp, a high-contrast near-black display (Customize > SKIN)",
+        "Maintenance update: shared code kept in step with the other Omen tools",
         "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
       ],
       "url": "https://app.gumroad.com/library",
@@ -211,8 +211,6 @@
       "date": "2026-11-27",
       "notes": [
         "+ TOOL now includes Omen Stoch",
-        "New skin: Crisp, a high-contrast near-black display (Customize > SKIN)",
-        "Fixed: loading a template while a dashboard showed its error strip could crash NinjaTrader",
         "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
       ],
       "url": "https://app.gumroad.com/library",
@@ -233,7 +231,6 @@
       "date": "2026-11-27",
       "notes": [
         "New skin: Crisp, a high-contrast near-black display (Customize > SKIN)",
-        "Fixed: loading a template while a dashboard showed its error strip could crash NinjaTrader",
         "Section outlines no longer show over the board's header when you scroll",
         "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
       ],
