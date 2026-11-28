@@ -52,9 +52,11 @@
       "sig": "H6JzXdL7t5z/tsjrY/QVV2y4XxNVOtQwhEd9Phnfw4kjSzkfN26w07AW00TCJjMz74erXbBTbAVrDROKUq9BF8I5vxFCG/uDrVhyZbc1BvtP4SwPLYYXoFvWjx7ENppEGlC3rwF2l3ctQZj3rGjZvyeN4bs0Y5LOKE9jh4yuLfRtpj3Xw0I1rZ95U2pmynH3ApUV+ncyIHulnXoapbe+eg3J2aOm8a2PehuYVLaZS4Ua61cBtbZN46YiuzLVffnRsob1VBmQb4pdpT6tXhu9E/vP5HKbqAsOVSA5FZlamv2HjgZ6Tg8X1VTw6L042mGhEcc49xrbQT1nfn1ZtdDs0F4uwVkQnZLE7bGUZJvzNQNUynIY4FkQjBY/9tHWLqfwTW66znIyGElfEOUAK1t+hTblzt2bJhYcfkvJbh9VZpNx8UUKDJQkIPD2WNuOeLtZncj53YhxSOvsgfIzfailZ7o2IRAEpTFb50MuI4kW9VWWFPxUbumdAECgJ2oSe+ab"
     },
     "PositionSizer": {
-      "version": "1.0.2.4",
+      "version": "1.0.2.5",
       "date": "2026-11-27",
       "notes": [
+        "The Keep using Omen Sync window shows the current $399 list price",
+        "Clearer help: the ENTRY key names what the next click switches to, and the Then follow setting describes all five trail ways",
         "Trailing stop: new ways to follow the price (BAR LOWS, ATR, SWINGS), plus STAYS THERE and up to three more moves before it trails",
         "Trailing stop can wait for target 1 to fill, and TRADE shows plainly when it starts and what it's doing",
         "Tightening the trail never sends a stop past the market: it parks 2 ticks from price (STOP HELD)",
@@ -68,17 +70,17 @@
         "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
       ],
       "url": "https://app.gumroad.com/library",
-      "name": "Omen Position Sizer",
+      "name": "Omen Sync",
       "pitch": "Drag a stop: risk becomes contracts, brackets go in, every account copies.",
       "trial": "https://omenindicators.gumroad.com/l/lxrhm",
       "pic": "https://omenindicators.github.io/omen-updates/pics/ps-1.jpg",
       "fits": "OmenAccounts,TradingDash,OmenRack",
       "lic": "PositionSizer",
       "asm": "BcnzPositionSizer",
-      "dll": "https://github.com/omenindicators/omen-updates/releases/download/PositionSizer-1.0.2.4/BcnzPositionSizer_NT8_1.0.2.4.dll",
-      "sha256": "aabfd182b2dfcba7a7ddafcaf8eba21818dc008b249c7be4b87c8a3a5898961a",
+      "dll": "https://github.com/omenindicators/omen-updates/releases/download/PositionSizer-1.0.2.5/BcnzPositionSizer_NT8_1.0.2.5.dll",
+      "sha256": "42a684780dcc568946afc080df7813246cac25507377ee16405705083b9e9831",
       "size": "5814784",
-      "sig": "kgdT/AJwpDdqXEokOM3NDJwfWoH6k8QXtPUjhv0MvNgjLid7nlAj9F3w7LoihZxN1oeMBVNPFZ4IfcoZtoDJUtPXlheyHAX1eLtSLfaD1cfVyzYUJ5mzutCiSEXjf31Ofd3hVvbUmXy9h76ERYKGJI52l3vugnufFkoATYKT0FgtnFZK9RGgbc7LIDfj2sRBbC6AK9Eir27bzIZyNTCNPQrR7z+MMkNcqXYGfiCvwdDGmUs4wmU4/UWg3cYuRTOOo3aHgmWpZcRRSg+mwvWguoIzweWJYbE3ta2mJcRMYpWGN3v3PL0nvZjVfgm/rhUw839ylrn036MqyJll9lx9J32aLDM0MpQ3l56Wl8oXk+iY9vEm9co0N15MNJG5DaeK6cZ9e+aP854sMNLPNF/zpvffegt809Zwp8WLMFQW9fbzPyUub8nCJ5yEzeUmjQTR0t2mYOaZKVLKiujJQo/aeVaipliHj+38CuooXsRcoA7zTrFICoJVnyOhFxssr+Af"
+      "sig": "T8mxqCw/2DpNccXUaLyEia532hvCCxm0eJodz0w5QAJ7xhAlPdB6853fms6AC1Pu/Jh0ov71AHHk6IgsqfOfR8XuQ+nKPWNt6ulQDTWrWgmqTAvRrcBZt8eO1VCsDcNk6OOQRO5zIrN0UIiLM5NEknBOtMtWU7kuOhqhRUXZZm9DRBRf5DEBfT+Nk9aBXPhV2H84P0f2xJDllboMkg04n1hJndF2Bh7/wUIccNP8F0LgpagrvBZQ0BxomJsvnRbKknXY4HoCfdHXQxF+4Uggx7UtaDvwyCXolxhJfdRmDS6uG8a0kpgpJSu6zGl8BAWd2+R35Ou/6jap06UwYLtmStFA4iLaPzXtHWZ7XpnZcZn9Ohx11bE3v2EIKm07qbIPcKY1i3h3I0pjcXT6IYioR6dJqGM5sb6rXd/Ux/shktb4gDYYqKya8jSDK40YWv2+w9uDu1eZITKRbVUgKYp78YeNel/sjuNEG835Ut3iJOZJ8iRyZOjblKMPsNjAVDct"
     },
     "DRWindow": {
       "version": "1.0.0.9",
