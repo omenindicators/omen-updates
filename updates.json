@@ -29,18 +29,13 @@
       "url": "https://app.gumroad.com/library"
     },
     "OmenDraw": {
-      "version": "1.0.1.6",
-      "date": "2026-11-22",
+      "version": "1.0.1.7",
+      "date": "2026-11-27",
       "notes": [
-        "Change the line colors right on the dashboard (SETUP > LINES > COLORS), per chart, dark and light",
-        "Saved templates now keep your line and dashboard colors (re-save them once with Update)",
-        "4-hour and daily levels look back 9 months by default",
-        "Fixed: long DRAW and pool labels no longer wrap onto a second line",
-        "New cards in place of the old menus: help (?), size (Aa) and look, with picture tiles",
-        "One size card on every dashboard: DASHBOARD SIZE, DASHBOARD TEXT and CHART TEXT, in steps, with one key back to the defaults",
-        "Drag a dashboard by its grip to the other side of the chart and it moves there",
-        "Omen Rack: + TOOL adds or removes Omen tools right from the Rack; the Rack opens even with no tools and shows every chart tab",
-        "Control Center: every Omen tool now sits under one Omen Indicators line",
+        "Right-click the template key for a small card: Save as new, or Update the template you're on",
+        "New skin: Crisp, a high-contrast near-black display (Customize > SKIN)",
+        "Dashboard readings and captions wrap to a second line instead of being cut off",
+        "Fixed: loading a template while a dashboard showed its error strip could crash NinjaTrader",
         "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
       ],
       "url": "https://app.gumroad.com/library",
@@ -51,24 +46,25 @@
       "fits": "OmenLayers,OmenMTFCE",
       "lic": "OmenDraw",
       "asm": "OmenDraw",
-      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenDraw-1.0.1.6/OmenDraw_NT8_1.0.1.6.dll",
-      "sha256": "bc1814e367c5669698919026ed5809e2605283e76418486e2f51492ff8f51d7d",
-      "size": "5185024",
-      "sig": "nqNLNFzKJEKUAq9AYJ3Jv2T0TaxJ3PATS+W+FXOBQqbzaR8soh6+DwBKuL7Zg+ytVjc03dCXgt3xs1OrJTmU+00shq/+RIn9YE3GxcthHDw1ZTml9dUfeBhWFzapte+xHCLgAOtjvc1HXyKiavDkGqaQAUZegw+L7zyELERz/Sbj8aYTUgY5HhEk9MWqBb3Qy9WJb1GPAArxH0IypTAk9CsqDHiEAiShl4bf3p/BBeSzEd8iqepTQ5rqbDkbXJjLfo1S7Pbr+5m0VShcqsTzMui7G3wTpjM8r4MN/RqTuL/qeO667Fcqo0Uz3IaaFZJystUOHnJmcAC8OeVJv3dl3/pW1zhfFeA/Mp8tSVb37VcwKkktsXqQkDkquIdoUMGKs1c0/622kcX2f5G3Qhv6BL5WTHsdhA73T0DmgttPIKnwkxrWJkXIkrgRtvHW7D1rnjkehgO4qH7UWAeailYK35oX+ob9Qfp/NLa0sUd3qhxD9P+2gQnP4RtcIRc388nI"
+      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenDraw-1.0.1.7/OmenDraw_NT8_1.0.1.7.dll",
+      "sha256": "0bfb7d405b3fe6ae261967fa57a33a7bd932b83387de0502e4de2771bffd12a0",
+      "size": "5217792",
+      "sig": "H6JzXdL7t5z/tsjrY/QVV2y4XxNVOtQwhEd9Phnfw4kjSzkfN26w07AW00TCJjMz74erXbBTbAVrDROKUq9BF8I5vxFCG/uDrVhyZbc1BvtP4SwPLYYXoFvWjx7ENppEGlC3rwF2l3ctQZj3rGjZvyeN4bs0Y5LOKE9jh4yuLfRtpj3Xw0I1rZ95U2pmynH3ApUV+ncyIHulnXoapbe+eg3J2aOm8a2PehuYVLaZS4Ua61cBtbZN46YiuzLVffnRsob1VBmQb4pdpT6tXhu9E/vP5HKbqAsOVSA5FZlamv2HjgZ6Tg8X1VTw6L042mGhEcc49xrbQT1nfn1ZtdDs0F4uwVkQnZLE7bGUZJvzNQNUynIY4FkQjBY/9tHWLqfwTW66znIyGElfEOUAK1t+hTblzt2bJhYcfkvJbh9VZpNx8UUKDJQkIPD2WNuOeLtZncj53YhxSOvsgfIzfailZ7o2IRAEpTFb50MuI4kW9VWWFPxUbumdAECgJ2oSe+ab"
     },
     "PositionSizer": {
-      "version": "1.0.2.3",
-      "date": "2026-11-22",
+      "version": "1.0.2.4",
+      "date": "2026-11-27",
       "notes": [
-        "Position Sizer is now Omen Sync: same tool, same license, your settings carry over",
-        "Price tags on your lines now sit in the price axis, so they no longer cover the latest bars",
-        "A line out of view shows as a flag on the chart's edge; drag it and the line comes to your mouse",
-        "FLATTEN EVERYTHING and the GUARD plan picker open cards",
-        "New cards in place of the old menus: help (?), size (Aa) and look, with picture tiles",
-        "One size card on every dashboard: DASHBOARD SIZE, DASHBOARD TEXT and CHART TEXT, in steps, with one key back to the defaults",
-        "Drag a dashboard by its grip to the other side of the chart and it moves there",
-        "Omen Rack: + TOOL adds or removes Omen tools right from the Rack; the Rack opens even with no tools and shows every chart tab",
-        "Control Center: every Omen tool now sits under one Omen Indicators line",
+        "Trailing stop: new ways to follow the price (BAR LOWS, ATR, SWINGS), plus STAYS THERE and up to three more moves before it trails",
+        "Trailing stop can wait for target 1 to fill, and TRADE shows plainly when it starts and what it's doing",
+        "Tightening the trail never sends a stop past the market: it parks 2 ticks from price (STOP HELD)",
+        "New entry: AT BAR CLOSE, including BOTH (OCO) to straddle the bar's high and low",
+        "New: CHASE for limit entries: the limit follows a running price, up to a cap you set",
+        "New: ADD TARGETS in a trade that has none, on the master and every copy account",
+        "Copy accounts: a copy whose stop is refused now closes at once; REVERSE and FLATTEN ALL no longer close a copy twice",
+        "Fixed: a rare NinjaTrader freeze with linked stops on a split mini / micro trade",
+        "In a trade the dashboard no longer grows: details open in a card over it",
+        "New skin: Crisp, a high-contrast near-black display (Customize > SKIN)",
         "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
       ],
       "url": "https://app.gumroad.com/library",
@@ -79,10 +75,10 @@
       "fits": "OmenAccounts,TradingDash,OmenRack",
       "lic": "PositionSizer",
       "asm": "BcnzPositionSizer",
-      "dll": "https://github.com/omenindicators/omen-updates/releases/download/PositionSizer-1.0.2.3/BcnzPositionSizer_NT8_1.0.2.3.dll",
-      "sha256": "2f5fb02647c900ea4239481d96be252153565de68ed87c58fc03e1998c1d92c1",
-      "size": "5689856",
-      "sig": "qnzeoqx0RYccCii54eaByTOsWGnbAISLbyoybg9bGsNA1CWaYh3i1L+eDUv34GSa8q7jYRSBTO1r/IQsyTFkpjkaQz1apiEk9fFsETYE5qkFX3Ct4Jl8WxpW1bkCF2LD8KPNYvIdetNm2s3O+yQnRFc4+kVf/cX1W8/mDLYW64vP7BHzBkET/8Hxlzql0VRcP+jFIIjpqmzdThwEEylL49DO47fQZw/x6heNCwotTMhOaakNr8T9MLImfts6brPioJC1YBC4F7p3416woSphVKo5+a0Dw1Lv5BVC3NcpjmiNUUn/jcM7gd14nMSABhRQFtvjXvweJSz65nEIUKcms6TWMqmi+vCs92sqiPK4yY8yrXEjh8R6AZH1m0AIhL9AL/uqCBB3PJpB071CISbyJj1sMBKZ7/3ZoG+8qBrAFAjLxQQABNF9/JeWT7I4H+4QABZsiFCBgzS6fsi1k7R4rytzYSTsa34Iu+bt05vyJm0cOiPFfNUdWuZibRhodjW7"
+      "dll": "https://github.com/omenindicators/omen-updates/releases/download/PositionSizer-1.0.2.4/BcnzPositionSizer_NT8_1.0.2.4.dll",
+      "sha256": "aabfd182b2dfcba7a7ddafcaf8eba21818dc008b249c7be4b87c8a3a5898961a",
+      "size": "5814784",
+      "sig": "kgdT/AJwpDdqXEokOM3NDJwfWoH6k8QXtPUjhv0MvNgjLid7nlAj9F3w7LoihZxN1oeMBVNPFZ4IfcoZtoDJUtPXlheyHAX1eLtSLfaD1cfVyzYUJ5mzutCiSEXjf31Ofd3hVvbUmXy9h76ERYKGJI52l3vugnufFkoATYKT0FgtnFZK9RGgbc7LIDfj2sRBbC6AK9Eir27bzIZyNTCNPQrR7z+MMkNcqXYGfiCvwdDGmUs4wmU4/UWg3cYuRTOOo3aHgmWpZcRRSg+mwvWguoIzweWJYbE3ta2mJcRMYpWGN3v3PL0nvZjVfgm/rhUw839ylrn036MqyJll9lx9J32aLDM0MpQ3l56Wl8oXk+iY9vEm9co0N15MNJG5DaeK6cZ9e+aP854sMNLPNF/zpvffegt809Zwp8WLMFQW9fbzPyUub8nCJ5yEzeUmjQTR0t2mYOaZKVLKiujJQo/aeVaipliHj+38CuooXsRcoA7zTrFICoJVnyOhFxssr+Af"
     },
     "DRWindow": {
       "version": "1.0.0.9",
@@ -110,15 +106,12 @@
       "url": "https://app.gumroad.com/library"
     },
     "OmenInk": {
-      "version": "1.0.1.3",
-      "date": "2026-11-22",
+      "version": "1.0.1.4",
+      "date": "2026-11-27",
       "notes": [
-        "CHART TEXT: one size for every Ink drawing's words on the chart, 80% to 200%",
-        "The Ink bar's ... opens a card: where the bar sits, how its buttons line up, what it shows",
-        "New cards in place of the old menus: help (?), size (Aa) and look, with picture tiles",
-        "One size card on every dashboard: DASHBOARD SIZE, DASHBOARD TEXT and CHART TEXT, in steps, with one key back to the defaults",
-        "Drag a dashboard by its grip to the other side of the chart and it moves there",
-        "Omen Rack: + TOOL adds or removes Omen tools right from the Rack; the Rack opens even with no tools and shows every chart tab",
+        "New skin: Crisp, a high-contrast near-black display (Customize > SKIN)",
+        "Dashboard readings and captions wrap to a second line instead of being cut off",
+        "Fixed: loading a template while a dashboard showed its error strip could crash NinjaTrader",
         "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
       ],
       "url": "https://app.gumroad.com/library",
@@ -129,19 +122,16 @@
       "fits": "OmenLayers,OmenDraw",
       "lic": "OmenInk",
       "asm": "OmenInk",
-      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenInk-1.0.1.3/OmenInk_NT8_1.0.1.3.dll",
-      "sha256": "2663355de2323feb6fdd35b7f134f3d10cfb61d83bb040eaf1b81e41ed7d6823",
-      "size": "5868032",
-      "sig": "dnq3zdY9xCngjBpSpijXQOP3+cS9lwNj1du0dRXlb7G8EDwPnl1x0cQ4XMH7xw3irCiMdl7cAPqYyKvNgwZL4FQNTaX/vX02an9jC42bkYkPMfmP4KP61BXSIIYHqqJVwm6IMUoKvZdfZEMssEsfIMD1s3epHDcXoGBr0pOAmmhL7RVHYD1JX7ww2xZWfuULkg32I02TCYKhxhJm/lavsF6WkT3Yk0KlUM+c8oaCDIlExmjxwbCRKBam8St3uwGujsBZhZbR1kapfTVdbTWgh787MmcjoVUt+QsrxYkRrbfXlMlE+pEWmYg8PuutCJBg+sadxlsmlHEfpMtKPQp0DwCSZZQpQPLd4DqjmqsizC+aFgo53EZFduGaw5Yt+DEVQHhvwsXWST5nht5qdFWLJYkXuNtntNA5ixo/h6P5ehOlV/mwn7wnGf0ohCifWwS+ebwJr8h6835rS8OsKxDEHuN4gIqRhojDW4pZDiaq5+pJ9VBFf3rlTE7zn+FWRhhz"
+      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenInk-1.0.1.4/OmenInk_NT8_1.0.1.4.dll",
+      "sha256": "31924ad00e2b74dfc972230b7212a39a565c7a7bb4da7f4803dc4d131efc4148",
+      "size": "5898752",
+      "sig": "ev4A2ruVRaX7APbmWGNH1y8r8JcIMSNnKcoHQPhru5G4HwgVDnxea/oK3pveIWjQsU7Pv5WZ/QuI9UajsOAFyhcnf8ZWpEi/zv4g45MzH8ckC7JsNJoEjVj1oWQmLuhxe+fmUV3CLm6rmuh+B7wmxXX+mokHsZEL1cn7wOx+3WFuw9E0u1Tads9Le7N/IE9sCZKcFFSPnNncTjUFWC2xAUbF313m7KprFrBdlLLopB558UWdt2v4YK3omz9hXUv9iUL4lZMiLjj4N/30g/VcsOWObW8W3cqwmJoZBeIfVMINPVKAhy3mAyxqE6d2hgQu1rBvl97FuzFsXlTKr0gmIIPlihd+Q0OUdrhVoaTArCt4ezJklyA3N1VSSonPhpO5IrboGA8d54YyjNdAkOijesaz3vmUrCnb7gz55TQzfgcd1qQK4Sm+XCJl8KbXM6XoMstwuz916rRBHMQPorvPTtjYEyp3QlJmUvz7NU4VLMlGbK2d4MOVoXJX7sIFlExi"
     },
     "OmenSwitch": {
-      "version": "1.0.0.8",
-      "date": "2026-11-22",
+      "version": "1.0.0.9",
+      "date": "2026-11-27",
       "notes": [
-        "The theme key, help, ORIGINAL COLORS and a theme's right-click open Omen cards",
-        "Fixed: the labels tag shows the state of the chart tab you're on",
-        "Fixed: moving the Switch bar no longer squeezes the chart when the Omen Ink bar is there",
-        "Control Center: every Omen tool now sits under one Omen Indicators line",
+        "New skin: Crisp, a high-contrast near-black display (Customize > SKIN)",
         "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
       ],
       "url": "https://app.gumroad.com/library",
@@ -152,10 +142,10 @@
       "fits": "OmenRack,OmenInk",
       "lic": "OmenSwitch",
       "asm": "OmenSwitch",
-      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenSwitch-1.0.0.8/OmenSwitch_NT8_1.0.0.8.dll",
-      "sha256": "973b78ba1a135da6984b8afd25fd7bb174ba1aa80915a7257e8b27c1c1f67851",
-      "size": "5280256",
-      "sig": "puAOp0OXOFC2yHwvbF0WDn7SRh/ehttBYMfwCM1DcgV45eQsVi2EAU+dDbBRF22kg/8CLWWtSth9osRPujB/PukR8UNxPH3f46T/fBzpHe9cmKglgP3f8Q9d7HVzCOwXMkIYFRNGRzs4ej4V21dCIYH8lTnLRTU5X8Xucoqc1GSXTGqfMTA4aWbaHZVsQ3d7rJ9zr0klOnj9r4Ir37P34trzqA4OjFixUsHf0K9rJqUpk0kfgPozuJ1IJUe5C/1+SXYtCB1vwA8PVzUZexplKdvUvdEscRU/LWpdUnX8AlkKNN4TJMx+yKgHvBTyHp8HyZZGAlZwjHe46DHL+CtFFmN/dVWA+qkM4gqIqAhLxk9BGo6STlSexH7IoH/bdpffdBDpLLG7by6FzQxH5XXFMhZw8M3/4vxmkMzD0v2wPNloxITgU9t66XIB+AG0aE59c2x02Wzhti7gApoHyJOUCXe8jzdQL2/ao4FagUkoMuQgAaoV4JLberA1LhPnz4J7"
+      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenSwitch-1.0.0.9/OmenSwitch_NT8_1.0.0.9.dll",
+      "sha256": "6c992f183f75035265144793523d08b4be94f92c7ddab0415a6d2ed4d80164db",
+      "size": "5311488",
+      "sig": "BQO1BOqRwTQsmpsLTeh2ijYXIXlWwue3pubQ70KOEnMcNO/xl0No5h67JLAcQuSjSeRprnE7Et3TxvRd3SClcskyPV0lKR8RLboqKR4PGMosngh1n6qiIxcIBCG6hrk77uvtRSYcSuJfEL9SQ2pdB3S+ZSLV5agLcwWdssULbdr9EAMNBOF2mCfsSGJuspnrr0idrB+LzpH8G+om/ZtrD/LiIF8eJt/oOGV+OzUrPqw34aGyQ/F6NexWeP3hTkdL4x088N/VHR0In5TzheOcuO55gjDosNK8XaGNDGWOlSSBFRQZyyDZ5Q0C/X9Xqt8OwcgT5HA+jAZ7Mjibxs9e1nMl2uPQOXunxhyUmYscpOeAEWCEjThvUEWeEFLz5PuIjVZIiG1/4MUgSD88TqveNj6ba28UGMqyO+/SfXSa1elucbVdJKOtB3YCf7UpMx/OkHx/H0WToCvoKnoTe7GL6LFfAG1zBAmDDmzMGZN2ntdSn3X2aI0zog64Q33IeHV0"
     },
     "OmenSwitchLite": {
       "version": "1.0.0.3",
@@ -169,17 +159,12 @@
       "url": "https://app.gumroad.com/library"
     },
     "OmenLayers": {
-      "version": "1.0.0.8",
-      "date": "2026-11-22",
+      "version": "1.0.0.9",
+      "date": "2026-11-27",
       "notes": [
-        "QUADRANTS: Off, Quadrants or Octants as pictures on a zone's color card and the TUNE knob",
-        "New WINDOW knob on the TARGETS RANGE row picks the dealing range's window",
-        "CHART TEXT sizes the labels on the chart; new charts start at 12 pt",
-        "New cards in place of the old menus: help (?), size (Aa) and look, with picture tiles",
-        "One size card on every dashboard: DASHBOARD SIZE, DASHBOARD TEXT and CHART TEXT, in steps, with one key back to the defaults",
-        "Drag a dashboard by its grip to the other side of the chart and it moves there",
-        "Omen Rack: + TOOL adds or removes Omen tools right from the Rack; the Rack opens even with no tools and shows every chart tab",
-        "Control Center: every Omen tool now sits under one Omen Indicators line",
+        "New skin: Crisp, a high-contrast near-black display (Customize > SKIN)",
+        "Dashboard readings and captions wrap to a second line instead of being cut off",
+        "Fixed: loading a template while a dashboard showed its error strip could crash NinjaTrader",
         "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
       ],
       "url": "https://app.gumroad.com/library",
@@ -190,24 +175,22 @@
       "fits": "OmenDraw,OmenMTFCE,OmenInk",
       "lic": "OmenLayers",
       "asm": "OmenLayers",
-      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenLayers-1.0.0.8/OmenLayers_NT8_1.0.0.8.dll",
-      "sha256": "779b06a53363bb7a8de7231cfb846fd4f48dcdf69c866f3a75145dc4bfbd6774",
-      "size": "5427200",
-      "sig": "eT7kXaryyR0dpobZix8TimgcGh0wElrg3ZGPTOdjZisCzxeSBSA4pXM+qB7SBboqaSl0u+rhrdLUBsiUr9L9ZObe8SPrb6L48jZuQRqmUGfNztEPTSOOmkYnvlUFcBK8To4svnWqr8UgunfsvGblIa3BLcx3jKuIVR3CJehkg7719LGcRoKAeceVE2xzRXpaiJ9kPMJWCpb+Yhmo+uKDh/aaDyggH/bCbS4QtuVu5xgqDzGANWTj+8qLMd1IjNpFaOXFBChxPEa+N24mdiM0nXx6Q0c4IhFHk/jhKVK4YdB/rXunCzmibkvMiBSl28/7lkcJTWG3+cB0IlIcopdiE3TF5G3ET2MLkI7rVkwc/YNVKuki0jsXTL/OUtJh5TsLy6tOTibS+O0CXldNQhSnhXbOhAg6KatLwHwBdr3qbjjngp/2DPL0NXqwFHDoqETWeZUUYrgS4N+m/wWD/gv1gCHueXD22q3YgCugHEH4zFVX0KVWBBe17tpGN80nxMfa"
+      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenLayers-1.0.0.9/OmenLayers_NT8_1.0.0.9.dll",
+      "sha256": "17b2abea9a12a3442eadd98918527fca789071e507c235f2739f081aa0fa96f3",
+      "size": "5457920",
+      "sig": "epcKCLaEQIAU8pJv+/bqa1PdwUELRFRbm+kLPHPwK6fNRZ18yxkIYEWSp/TG8w/kzSQrZVKL/cild87rtJJGNVpI2VOY2efjQOnQauJJdiIxEUn7gvU+ZBxW4acstLeG+DAYdZurfT1ICHnDWN3OXdFGLg29kIO+hlzi0yvbEVIPP6CcrSbWoYj3J6cJcboKm+L4jrj2X++jBzrZyx7+/QXqPROx6YI4QyZI3zZ/3ZkZhBuknjXWydRQKzOYnY/JTVfPUifzNjnI2htQCLbwJPnU6Zyi7JU5tKRTp/qageAkA1rmyc3OqlKM131cxqy9MQMhZWWGxaA9zpP0VlZzLpwFjxoynv2B/Y/wCQWa3eCmrodgsiqz4DCGFapf5zZq4bgdu4QXD/fzfHWYnOkJgG3L5X78gjqf5bfSi2Ny+CgQrUUhY5aceXUUxUl1m9eg8RLYGANcNL0XcZxdGj37UFfr5Guu4ptYvW1w5YiaihzofEAlYFziZ4hkUAb+XbLY"
     },
     "OmenMTFCE": {
-      "version": "1.0.0.9",
-      "date": "2026-11-22",
+      "version": "1.0.1.0",
+      "date": "2026-11-27",
       "notes": [
-        "Omen MTF CE is now Omen Trend: same tool, same license, your settings carry over",
-        "Change the 12 timeframes right on the dashboard (EDIT, pick, APPLY)",
-        "Flip alert WATCH and CONFIRM are picked on the dashboard and always match your timeframes",
-        "New charts start with WickWatch confirms off",
-        "New cards in place of the old menus: help (?), size (Aa) and look, with picture tiles",
-        "One size card on every dashboard: DASHBOARD SIZE, DASHBOARD TEXT and CHART TEXT, in steps, with one key back to the defaults",
-        "Drag a dashboard by its grip to the other side of the chart and it moves there",
-        "Omen Rack: + TOOL adds or removes Omen tools right from the Rack; the Rack opens even with no tools and shows every chart tab",
-        "Control Center: every Omen tool now sits under one Omen Indicators line",
+        "New look for flip signals: a triangle with an UP / DN chip, dots while a flip is forming, and a BREAK line while it waits for its break",
+        "SIGNAL EFFECTS: pick effects for new flips and crosses from picture tiles (hover to preview); all off until you turn them on",
+        "SIGNAL COLORS on the dashboard: up and down colors for flips, watches and crosses",
+        "Templates now keep your 12 timeframes and WATCH / CONFIRM",
+        "Right-click the template key for a small card: Save as new, or Update the template you're on",
+        "New skin: Crisp, a high-contrast near-black display (Customize > SKIN)",
+        "Fixed: loading a template while a dashboard showed its error strip could crash NinjaTrader",
         "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
       ],
       "url": "https://app.gumroad.com/library",
@@ -218,21 +201,18 @@
       "fits": "OmenLayers,OmenDraw,OmenRack",
       "lic": "MtfCe",
       "asm": "OmenMTFCE",
-      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenMTFCE-1.0.0.9/OmenMTFCE_NT8_1.0.0.9.dll",
-      "sha256": "dcf9044b94e341357d5c0e3571b4d48309cb6c204394e12717d40237c3c13b4f",
-      "size": "5266432",
-      "sig": "q3BfAJkAU6R+jrnBJbpdM6hSzT0q+hmomwAFRjNTGoJuz7ByOWVe5QKqeyYkA2Ed/IJq34M9K07lb4nDMrklj8u+bfrFSTW3rBaTJZDw2x6ScrZHSMKs7SIV+UnADm3rrHbfmEqBuJWrorI/O5Owvu7y7uBMcIjn2G6Ch05giG20PC9XXT8C6AB7Sq5YLaywAsERMKBp3wDSRuw/bJ1y6EtgiscV55sahA26fEwQehfwjFsMzBWLP4eFv+VZbuNI4Kf4Zzx46NyjrfR28BV2OH8dnu86GU1UzXJvLsYlIsrfZUDBsTf+ZI8mQBn/uI5+wuw1Ap1Mh+ypCf24AQyVe8uXlM5RQ7+bbxwhzV6MNLh2JegrQG0FDC4HvT52kwuB6gTfDBWVCZ3Q8Q4ARzkN0QXK5eh6YJJaX5l4mn6TZZfKmLWVZPt83pxiRzjxrU1wq+KgnUTEB0zOuyS4G3cvtQvAZh6UGrbTYDIXwQXkSflzCU186JdmZE74UxwAG9KX"
+      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenMTFCE-1.0.1.0/OmenMTFCE_NT8_1.0.1.0.dll",
+      "sha256": "2d5d6a63636f66eda6727d743e03a0d9234a3fcd4624b6b1a1bdec50c3be127f",
+      "size": "5315072",
+      "sig": "Ycsu0uQQh96j4FfC2ZIN/+YhrRlAZAuZ7o+iotxW4jENq892ylT5I12Qbk8jSKm80OtG6SYXEMBA+8LVEnvsSqDO/WafaJcE0dAV4oi/2dpwysJDDKGuK/3K2cf9aOuU8nC/nB+vCtsMlgGH5XIjS3CN8NU93sFIWqNDLu7aoeXOONV53zXfshMRJ8pC7osRuta3KNFT7HbIbcPxp6q7yi5PouCwkTGArZFA3o8QYuExFgV05U4OIA3PxYyQire3d8vebP4w0qsT82xLQFHE3vo1yaB5WAFxINXDyzeveraDKfpqMUfHVqVZ238xfxQ3hgzP1D5MYdIiSaJr7dgjcCbGCodHXGyWMt2RrVgxL/TFuSVs4BRYIswe5A1RziiOnwWHHtwzlPf6YmK2wkIooD9QiNl8O9NfsgnkSEk6ZJdq9ORGCwz3QIHedpsWgx1h5Nr3X0sj0JSJ73tO8QToLCVQiYuu1qy2KFK5IsoMBVbp1ESQDXmjnAYkUAe53i6M"
     },
     "OmenRack": {
-      "version": "1.0.0.5",
-      "date": "2026-11-22",
+      "version": "1.0.0.6",
+      "date": "2026-11-27",
       "notes": [
-        "+ TOOL adds or removes Omen tools on the picked chart, and lists the ones you don't have yet",
-        "Opens from Control Center even with no tools: every open chart and every tab gets a chip",
-        "Clicking a chip brings that chart's window to the front, with the Rack on top",
-        "Removing the last tool no longer closes the Rack; only its X does",
-        "Fixed: the Rack could open off your screen after NinjaTrader closed while it was minimized",
-        "Control Center: every Omen tool now sits under one Omen Indicators line",
+        "+ TOOL now includes Omen Stoch",
+        "New skin: Crisp, a high-contrast near-black display (Customize > SKIN)",
+        "Fixed: loading a template while a dashboard showed its error strip could crash NinjaTrader",
         "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
       ],
       "url": "https://app.gumroad.com/library",
@@ -243,19 +223,18 @@
       "fits": "PositionSizer,OmenMTFCE,OmenSwitch",
       "lic": "OmenRack",
       "asm": "OmenRack",
-      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenRack-1.0.0.5/OmenRack_NT8_1.0.0.5.dll",
-      "sha256": "6fdafa35045b3811a956dd93160d16cc12dd8a7de1106a68106e2f57affe501d",
-      "size": "5040640",
-      "sig": "Z8lSi6NE4SUfznSFX9jYa1l2xV3VyWtYgJIyMVnmuW+/r5uEOgDOOQjpOzgXnO145wIZQBZMxf8G3GEY2+zlnYCOdqrBSgI1xbjoEZlOvhwS/L2GZVnRjnXmFagAJsGkY0F67NVxaIxx9q2n+RKu/gCqqZR0WY5hdZEKYPJu1W0d1loMz0IP5dj9wVo1jLtZzqlOdud+zpgaCz+HalcubSxuRR+r+Hc9Edoh4PpzmGn0snbh2OLY26B+RxKfRDybnO6rpjFmADd5Zsfju2O7vrrxocYF3VdF3srsq8k3vgRvkpq9zb9VMsN7GhiZ9PotyIrnrX5zz5NFLNdzNo4TWhgZEzuOiAdihC2hxZ4Qd+6R/VRnoU2dMsKeMIDgzNJLOgwRydWuy5XUkjqTGRc69krDIIVpT7rlO9lFrCct4oToEy42Q1h2AYaI/LwIe1ntS5vQB+ug3BELn1sXTTiRwK2cIej1+FZBNMqvnhLQvq1IQmMrPiLJmY49moFapH8Z"
+      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenRack-1.0.0.6/OmenRack_NT8_1.0.0.6.dll",
+      "sha256": "8ba888131f5fbb734487fd94a47f5e6a65530520a868c7461d6cab1a7eb3a0a3",
+      "size": "5071872",
+      "sig": "OmD8p9xRR4WbgdyZ5fhPZmorGPtDAIM0rFvcmCJbU0j57/nOzEp0DOtkFJK1l+mTK5x8G2W1iuq0HCyjQqXZnuSFQpw5EjHacfOv3sfjaL4BANqTIOd1/3XrHI6ndtsbqf7Z1a5fhpv+hMG8wjZeCER/DjKy7hBrtf/nvqTTIoOh1QOuoXYfp4I7RuGMMLgtuP2kojxhm7R9ekSf5HeQ7NGl3j6Cz2Dk0Qg0wD/gHIFLErMXPpFUvm39/1skRL12BbYl7bsS4B7Gt8xiQiKzsY6w6jJHoUCrIdOWfvfW6NojIOqoFoLx5QYWqU+CAmmZk81zpEImUy8bcDPMQGWuyVfsPqsGIyqoA/ah/h5D0QvPzi9s+pv3wlSSk83TQNcxBVjY2ZUZuGdMD6VYr8Kbg1qXXYTCbjj259Ww1QkrnvoyM3cfftkkzleoV9flwGg025vsSv7aO/zvYueZVqVBwI3yfChGmD1l+A32vS9OjHThBrTCnxBuwaLPDspImDhM"
     },
     "OmenAccounts": {
-      "version": "1.0.0.6",
-      "date": "2026-11-22",
+      "version": "1.0.0.7",
+      "date": "2026-11-27",
       "notes": [
-        "New cards in place of the old menus: help (?) and look, with picture tiles",
-        "Board look card, Slate included; the gear opens one card for scope colors and lines",
-        "Omen Rack: + TOOL adds or removes Omen tools right from the Rack; the Rack opens even with no tools and shows every chart tab",
-        "Control Center: every Omen tool now sits under one Omen Indicators line",
+        "New skin: Crisp, a high-contrast near-black display (Customize > SKIN)",
+        "Fixed: loading a template while a dashboard showed its error strip could crash NinjaTrader",
+        "Section outlines no longer show over the board's header when you scroll",
         "After importing, while flat: reload every chart with an Omen tool (F5) or restart NinjaTrader"
       ],
       "url": "https://app.gumroad.com/library",
@@ -266,10 +245,10 @@
       "fits": "PositionSizer,TradingDash",
       "lic": "OmenAccounts",
       "asm": "OmenAccounts",
-      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenAccounts-1.0.0.6/OmenAccounts_NT8_1.0.0.6.dll",
-      "sha256": "a15bbb253c85630a6be09ff73e269078ab2c216b10901966c75945c845a5b54c",
-      "size": "5209088",
-      "sig": "YXHnj09sw/a+f+mS4EluRFJUrkLLxcEKWxTG5674R7taXx9hQQMvazcmbLkfH/IkE17bGTqZKlO0wE8NRqpq4kfDVHrS7bMNBm6z5FRtRlVYKZD1REB9oaKq26ZYm20Hh1+c5FkJMJ1tmaTgarqYZ4CNB0UTZC1C5h0hg13iyfGMgEt4KXLvVLVqOAlPlKWcXmfHPvO/R5qntsvFrJBwdwhvqmZkBCotJOKQcfJZQNX3AOphkxb2s+rNPv0na5YiXMRKW6bzc/Ekt6+ilfisCyu8SneXHkaUKn3rN6pfnISL1PV7d3AZW+uRTfkR7MKwCxgiSzI+/nkEI0r0HdbanLkPEtLkC47ik6XN24ByFzr8vGAj7cmJ+NzRJMl0TN+xJyQJDYzKc6ox9XVe63drYTBSXJBW8QtCyODx9P5L9yaUtTda6EV7O3NNmbzwdQISr9ZSL1dXUu32foUcNqaGdFjKBarFqUqbaMcT7l8A8awdjjZDU85cyG3DBBPpq9SV"
+      "dll": "https://github.com/omenindicators/omen-updates/releases/download/OmenAccounts-1.0.0.7/OmenAccounts_NT8_1.0.0.7.dll",
+      "sha256": "d49597fce6d1ff35cd04684f8b7d74188f1359aef7923e23f609ad70e4a800aa",
+      "size": "5239808",
+      "sig": "YTdE4tghdl4HV9P4ARucmjQA6gGo/s7yCLQ1xAt3PjqvVspvfmLaHuaLH1gfSSXaoENzvLwhNp2jU9nQz2PYkszfOpTuIqj625KHaGbH3lz8e66JxEnzOApeEOnqToASbxEURItVFj1Ey04pLOignR02pyw0labI+wxCTlEYtCgGcLtv49e1xRn/TuyouHjjr73PNQVxxiYsjs4Rwmhpe7VRwqHXO0fzKGMZF6RV6wNG0orsJrBcQW48M4Kyfzj4vy12IsFv3+GSAB8zZenQ2/jOK2P23egwyduh5G0moJGqdT71U/cRv4LZwOLxhLiKjx4cJAX1z4cUkrpKFEvxkyMEit+B6kWeWvNxgK8sLpMx/qaAbQeGPalAPzz80Hls9txEX9hzFqGC+TpZkQ+RPvxfvb/44M7fMzqzbNhbCFk/D3f/4f5WuAES7P578i7t+Un9cYiF7vs+X4Ah5MhYLJ70ftyTiPnMvjxQkAHlEcVpqKTPjwE8ETC2K9aIgPJ4"
     },
     "OmenCore": {
       "version": "1.0.0.4",
